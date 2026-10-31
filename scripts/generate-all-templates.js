@@ -91,11 +91,8 @@ for (const topic of ALL_TOPICS) {
     generatedBriefs++;
 
     const svgPath = path.join(folderPath, 'visual.svg');
-    // Only generate if not already hand-crafted (e.g. topic 11, 31)
-    if (!fs.existsSync(svgPath) || topic.id !== 11 && topic.id !== 31) {
-      const svgContent = generateSvgForTopic(topic);
-      fs.writeFileSync(svgPath, svgContent, 'utf8');
-    }
+    const svgContent = generateSvgForTopic(topic);
+    fs.writeFileSync(svgPath, svgContent, 'utf8');
     generatedSvgs++;
   } else {
     // For text-based: ensure no rogue svg or brief exists

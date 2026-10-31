@@ -1,4 +1,4 @@
-// Auto-generated master templates data for TrustGrid.AI LinkedIn Gallery
+// Master templates data for TrustGrid.AI LinkedIn Gallery
 // Exactly 100 topics (60 Image-Based, 40 Text-Based)
 window.TEMPLATES_DATA = [
   {

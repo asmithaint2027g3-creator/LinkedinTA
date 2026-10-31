@@ -1,135 +1,257 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" style="background:#080c14; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500" style="background:#f4f7fb; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', Helvetica, Arial, sans-serif;">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080c14"/>
-      <stop offset="40%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#0b132b"/>
+    
+    <pattern id="microDotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#cbd5e1" opacity="0.6"/>
+    </pattern>
+
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
     </linearGradient>
-    <filter id="shadowFilter" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+
+    <linearGradient id="darkNavyCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f"/>
+      <stop offset="50%" stop-color="#0f2744"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+
+    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b172a"/>
+      <stop offset="40%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+
+    <filter id="cardShadow" x="-2%" y="-2%" width="104%" height="106%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#0f172a" flood-opacity="0.02"/>
     </filter>
+
+    <filter id="ctaShadow" x="-2%" y="-5%" width="104%" height="115%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#1d4ed8" flood-opacity="0.25"/>
+    </filter>
+  
   </defs>
 
-  <!-- Background Base -->
-  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
-
-  <!-- Subtle Blueprint Tech Grid -->
-  <g opacity="0.05" stroke="#fbbf24" stroke-width="1">
-    <line x1="80" y1="0" x2="80" y2="1350"/>
-    <line x1="540" y1="0" x2="540" y2="1350"/>
-    <line x1="1000" y1="0" x2="1000" y2="1350"/>
-    <line x1="0" y1="180" x2="1080" y2="180"/>
-    <line x1="0" y1="680" x2="1080" y2="680"/>
-    <line x1="0" y1="1160" x2="1080" y2="1160"/>
-  </g>
+  <!-- Base Canvas + Technical Micro-Dot Texture -->
+  <rect width="1200" height="1500" fill="#f4f7fb"/>
+  <rect width="1200" height="1500" fill="url(#microDotGrid)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#blueGrad)"/>
 
   <!-- Top Header Bar -->
-  <g transform="translate(80, 65)">
-    <!-- Brand Plate -->
-    <rect x="0" y="0" width="165" height="34" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
-    <text x="16" y="22" fill="#38bdf8" font-size="13" font-weight="800" letter-spacing="1.5">TRUSTGRID.AI</text>
-    
+  <g transform="translate(60, 45)">
+    <!-- Brand Logo Group -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="38" height="38" rx="8" fill="#1d4ed8"/>
+      <path d="M19 7 L29 11 L29 19 C29 25 19 30 19 30 C19 30 9 25 9 19 L9 11 Z" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M14 18 L17.5 21.5 L24 15" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="48" y="22" fill="#0b172a" font-size="22" font-weight="900" letter-spacing="1">TRUSTGRID<tspan fill="#1d4ed8">.AI</tspan></text>
+      <text x="48" y="34" fill="#64748b" font-size="10.5" font-weight="700" letter-spacing="1.5">ENTERPRISE AI ENGINEERING</text>
+    </g>
+
+    <line x1="280" y1="2" x2="280" y2="36" stroke="#cbd5e1" stroke-width="1.5"/>
+
+    <!-- Descriptor -->
+    <g transform="translate(296, 6)">
+      <text x="0" y="14" fill="#475569" font-size="11.5" font-weight="600">A Practice of Silicon-to-Strategy Engineering</text>
+      <text x="0" y="27" fill="#1d4ed8" font-size="10.5" font-weight="700" letter-spacing="1.2">HIGH-DENSITY COMPUTE • AGENTIC SYSTEMS</text>
+    </g>
+
     <!-- Category Pill -->
-    <rect x="180" y="0" width="280" height="34" rx="6" fill="#451a03" stroke="#d97706" stroke-width="1"/>
-    <text x="195" y="22" fill="#fde68a" font-size="11.5" font-weight="700" letter-spacing="1">AI ECONOMICS &amp; VALUE ENGINEERING</text>
+    <g transform="translate(1080, 2)" text-anchor="end">
+      <rect x="-280" y="0" width="280" height="36" rx="18" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5" filter="url(#cardShadow)"/>
+      <text x="-140" y="23" fill="#1d4ed8" font-size="11" font-weight="700" letter-spacing="0.8" text-anchor="middle">AI ECONOMICS &amp; VALUE ENGINEERING • #087</text>
+    </g>
 
-    <!-- Series & ID -->
-    <text x="920" y="22" fill="#64748b" font-size="13" font-weight="600" text-anchor="end" letter-spacing="1">AI VALUE ENGINEERING • #087</text>
+    <line x1="0" y1="52" x2="1080" y2="52" stroke="#e2e8f0" stroke-width="1"/>
   </g>
 
-  <!-- Title & Problem Banner -->
-  <g transform="translate(80, 145)">
-    <text x="0" y="42" fill="#f8fafc" font-size="38" font-weight="800" letter-spacing="-0.5">MEASURING AI VALUE BEYOND COST CUTTING</text>
-    <text x="0" y="80" fill="#94a3b8" font-size="18.5" font-weight="400">From Tactical Headcount Reductions to Structural Top-Line Revenue Expansion</text>
+  <!-- Context Tag Strip -->
+  <g transform="translate(60, 122)">
+    <rect x="0" y="0" width="520" height="28" rx="14" fill="#e0e7ff" stroke="#c7d2fe" stroke-width="1"/>
+    <text x="16" y="18" fill="#3730a3" font-size="11" font-weight="800" letter-spacing="1">AI FINOPS • UNIT TASK ECONOMICS • 40-75% TCO REDUCTION</text>
   </g>
 
-  <!-- Technical Pillar Cards -->
+  <!-- Primary Headline & Sub-headline -->
+  <g transform="translate(60, 165)">
+    
+    <text x="0" y="42" fill="#0b172a" font-size="38" font-weight="900" letter-spacing="-0.8">
+      MEASURING AI VALUE
+    </text>
+    <text x="0" y="88" font-size="38" font-weight="900" letter-spacing="-0.8">
+      <tspan fill="#1d4ed8" text-decoration="underline" style="text-underline-offset: 6px;">BEYOND COST</tspan><tspan fill="#0b172a"> CUTTING</tspan>
+    </text>
   
-      <!-- Card 1 -->
-      <g transform="translate(80, 300)" filter="url(#shadowFilter)">
-        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
-        <rect x="0" y="0" width="6" height="145" rx="3" fill="#d97706"/>
-        
-        <!-- Step Badge -->
-        <circle cx="48" cy="46" r="22" fill="#451a03" stroke="#d97706" stroke-opacity="0.4" stroke-width="1"/>
-        <text x="48" y="52" fill="#fbbf24" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">01</text>
-        
-        <!-- Card Text -->
-        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Compressing Time-to-Quote</text>
-        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Collapsing custom B2B manufacturing quote generation from 5 days to 15...</text>
-      </g>
-    
 
-      <!-- Card 2 -->
-      <g transform="translate(80, 465)" filter="url(#shadowFilter)">
-        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
-        <rect x="0" y="0" width="6" height="145" rx="3" fill="#d97706"/>
-        
-        <!-- Step Badge -->
-        <circle cx="48" cy="46" r="22" fill="#451a03" stroke="#d97706" stroke-opacity="0.4" stroke-width="1"/>
-        <text x="48" y="52" fill="#fbbf24" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">02</text>
-        
-        <!-- Card Text -->
-        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Expanding Service Capacity</text>
-        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Allowing asset managers to underwrite and service 10x more mid-market credit...</text>
-      </g>
-    
-
-      <!-- Card 3 -->
-      <g transform="translate(80, 630)" filter="url(#shadowFilter)">
-        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
-        <rect x="0" y="0" width="6" height="145" rx="3" fill="#d97706"/>
-        
-        <!-- Step Badge -->
-        <circle cx="48" cy="46" r="22" fill="#451a03" stroke="#d97706" stroke-opacity="0.4" stroke-width="1"/>
-        <text x="48" y="52" fill="#fbbf24" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">03</text>
-        
-        <!-- Card Text -->
-        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Dynamic Pricing &amp; Yield Optimization</text>
-        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Re-pricing complex logistics, energy, or retail inventory dynamically based...</text>
-      </g>
-    
-
-      <!-- Card 4 -->
-      <g transform="translate(80, 795)" filter="url(#shadowFilter)">
-        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
-        <rect x="0" y="0" width="6" height="145" rx="3" fill="#d97706"/>
-        
-        <!-- Step Badge -->
-        <circle cx="48" cy="46" r="22" fill="#451a03" stroke="#d97706" stroke-opacity="0.4" stroke-width="1"/>
-        <text x="48" y="52" fill="#fbbf24" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">04</text>
-        
-        <!-- Card Text -->
-        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Creating Net-New AI Products</text>
-        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Monetizing proprietary institutional knowledge and domain models as...</text>
-      </g>
-    
-
-  <!-- Strategic Takeaway & Rule Banner -->
-  <g transform="translate(80, 995)" filter="url(#shadowFilter)">
-    <rect width="920" height="150" rx="14" fill="#0f172a" stroke="#d97706" stroke-width="1.5"/>
-    <rect x="0" y="0" width="920" height="38" rx="14" fill="#451a03"/>
-    <text x="24" y="24" fill="#fbbf24" font-size="12" font-weight="700" letter-spacing="1.5">ENTERPRISE ARCHITECTURE TAKEAWAY</text>
-    
-    <text x="24" y="74" fill="#f8fafc" font-size="18" font-weight="700">"Cost savings balance the books today. Revenue expansion driven by autonomous intelligence builds the enterprise of tomorrow."</text>
-    <text x="24" y="112" fill="#94a3b8" font-size="14">Deploy with sovereign data boundaries, formal verification, and deterministic SLAs.</text>
+    <g transform="translate(0, 108)">
+      <rect x="0" y="4" width="4" height="22" rx="2" fill="#1d4ed8"/>
+      <text x="14" y="21" fill="#475569" font-size="16.5" font-weight="500">
+        From Tactical Headcount Reductions to Structural Top-Line Revenue Expansion
+      </text>
+    </g>
   </g>
 
-  <!-- Bottom CTA Footer -->
-  <g transform="translate(80, 1175)">
-    <rect width="920" height="96" rx="12" fill="#451a03" fill-opacity="0.3" stroke="#d97706" stroke-width="1"/>
-    
-    <text x="32" y="38" fill="#fbbf24" font-size="12.5" font-weight="700" letter-spacing="1">TRUSTGRID.AI ENGINEERING SERVICES</text>
-    <text x="32" y="68" fill="#f8fafc" font-size="17" font-weight="700">Forward Deployed Engineering Pods embedded inside your sovereign infrastructure.</text>
-
-    <!-- CTA Button -->
-    <rect x="680" y="25" width="208" height="46" rx="8" fill="#d97706"/>
-    <text x="784" y="53" fill="#ffffff" font-size="13.5" font-weight="700" text-anchor="middle">Explore Solutions →</text>
+  <!-- Dynamic Structural Layout -->
+  
+  <!-- Top Benchmark Header -->
+  <g transform="translate(60, 320)" filter="url(#cardShadow)">
+    <rect width="1080" height="90" rx="14" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+    <rect x="0" y="0" width="6" height="90" rx="3" fill="#1d4ed8"/>
+    <g transform="translate(24, 20)">
+      <text x="0" y="16" fill="#1d4ed8" font-size="11" font-weight="800" letter-spacing="1">AI FINOPS &amp; TCO DECONSTRUCTION</text>
+      <text x="0" y="44" fill="#0b172a" font-size="20" font-weight="900">How Co-Design, Quantization, and Density Slash 3-Year TCO by 40% to 75%</text>
+    </g>
   </g>
 
-  <!-- Footnote -->
-  <g transform="translate(80, 1315)">
-    <text x="0" y="0" fill="#475569" font-size="12" font-weight="500">© TRUSTGRID.AI • ENTERPRISE AI ENGINEERING • SOVEREIGN INFRASTRUCTURE &amp; AGENTS</text>
-    <text x="920" y="0" fill="#fbbf24" font-size="12" font-weight="600" text-anchor="end">trustgrid.ai</text>
+  <!-- Section 1: Where 60% of Budget Bleeds (3 Red Cards) -->
+  <g transform="translate(60, 435)">
+    <text x="0" y="0" fill="#991b1b" font-size="12" font-weight="800" letter-spacing="1">THREE VECTOR LEAKS DESTROYING ENTERPRISE AI MARGINS</text>
+    
+    
+        <g transform="translate(0, 15)" filter="url(#cardShadow)">
+          <rect width="345" height="155" rx="12" fill="#ffffff" stroke="#fecaca" stroke-width="1.5"/>
+          <rect x="0" y="0" width="345" height="34" rx="12" fill="#fef2f2"/>
+          <text x="16" y="22" fill="#991b1b" font-size="11.5" font-weight="800">LEAK 01: COST DESTABILIZER</text>
+          
+          <g transform="translate(16, 55)">
+            <text x="0" y="18" fill="#0b172a" font-size="15.5" font-weight="800">Compressing Time-to-Quote</text>
+            <text x="0" y="46" fill="#475569" font-size="13">Collapsing custom B2B manufacturing quote...</text>
+            <text x="0" y="80" fill="#dc2626" font-size="12" font-weight="700">Cost Drag: ~25-35% Capex Waste</text>
+          </g>
+        </g>
+      
+        <g transform="translate(365, 15)" filter="url(#cardShadow)">
+          <rect width="345" height="155" rx="12" fill="#ffffff" stroke="#fecaca" stroke-width="1.5"/>
+          <rect x="0" y="0" width="345" height="34" rx="12" fill="#fef2f2"/>
+          <text x="16" y="22" fill="#991b1b" font-size="11.5" font-weight="800">LEAK 02: COST DESTABILIZER</text>
+          
+          <g transform="translate(16, 55)">
+            <text x="0" y="18" fill="#0b172a" font-size="15.5" font-weight="800">Expanding Service Capacity</text>
+            <text x="0" y="46" fill="#475569" font-size="13">Allowing asset managers to underwrite and...</text>
+            <text x="0" y="80" fill="#dc2626" font-size="12" font-weight="700">Cost Drag: ~25-35% Capex Waste</text>
+          </g>
+        </g>
+      
+        <g transform="translate(730, 15)" filter="url(#cardShadow)">
+          <rect width="345" height="155" rx="12" fill="#ffffff" stroke="#fecaca" stroke-width="1.5"/>
+          <rect x="0" y="0" width="345" height="34" rx="12" fill="#fef2f2"/>
+          <text x="16" y="22" fill="#991b1b" font-size="11.5" font-weight="800">LEAK 03: COST DESTABILIZER</text>
+          
+          <g transform="translate(16, 55)">
+            <text x="0" y="18" fill="#0b172a" font-size="15.5" font-weight="800">Dynamic Pricing &amp; Yield...</text>
+            <text x="0" y="46" fill="#475569" font-size="13">Re-pricing complex logistics, energy, or...</text>
+            <text x="0" y="80" fill="#dc2626" font-size="12" font-weight="700">Cost Drag: ~25-35% Capex Waste</text>
+          </g>
+        </g>
+      
+  </g>
+
+  <!-- Transition Divider -->
+  <g transform="translate(60, 640)">
+    <line x1="0" y1="15" x2="380" y2="15" stroke="#cbd5e1" stroke-width="1"/>
+    <rect x="390" y="0" width="300" height="30" rx="15" fill="#eff6ff" stroke="#bfdbfe"/>
+    <text x="540" y="20" fill="#1d4ed8" font-size="11.5" font-weight="800" text-anchor="middle">↓ VALUE ENGINEERING RECOVERY ↓</text>
+    <line x1="700" y1="15" x2="1080" y2="15" stroke="#cbd5e1" stroke-width="1"/>
+  </g>
+
+  <!-- Section 2: 4 Compounding Value Multipliers (2x2 Grid) -->
+  <g transform="translate(60, 695)">
+    <!-- Lever 1 -->
+    <g filter="url(#cardShadow)">
+      <rect width="525" height="180" rx="12" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+      <circle cx="28" cy="28" r="12" fill="#1d4ed8"/>
+      <text x="28" y="33" fill="#ffffff" font-size="12" font-weight="800" text-anchor="middle">✓</text>
+      <text x="48" y="33" fill="#0b172a" font-size="16" font-weight="800">Hardware-Software Co-Design (25% Savings)</text>
+      
+      <g transform="translate(20, 62)">
+        <text x="0" y="18" fill="#475569" font-size="13.5">Fusing CUDA kernels and batch sizes to double the useful</text>
+        <text x="0" y="38" fill="#475569" font-size="13.5">throughput per physical server without procuring new hardware.</text>
+        <text x="0" y="70" fill="#1d4ed8" font-size="12.5" font-weight="700">Metric: Doubles Model FLOPs Utilization (MFU) on existing silicon.</text>
+      </g>
+    </g>
+
+    <!-- Lever 2 -->
+    <g transform="translate(555, 0)" filter="url(#cardShadow)">
+      <rect width="525" height="180" rx="12" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+      <circle cx="28" cy="28" r="12" fill="#1d4ed8"/>
+      <text x="28" y="33" fill="#ffffff" font-size="12" font-weight="800" text-anchor="middle">✓</text>
+      <text x="48" y="33" fill="#0b172a" font-size="16" font-weight="800">Domain Model Distillation (35% Savings)</text>
+      
+      <g transform="translate(20, 62)">
+        <text x="0" y="18" fill="#475569" font-size="13.5">Replacing oversized 400B frontier models with domain-fine-tuned</text>
+        <text x="0" y="38" fill="#475569" font-size="13.5">8B–14B models running FP8 precision at 5x token speed.</text>
+        <text x="0" y="70" fill="#1d4ed8" font-size="12.5" font-weight="700">Metric: Slashes per-token inference expenditure by up to 85%.</text>
+      </g>
+    </g>
+
+    <!-- Lever 3 -->
+    <g transform="translate(0, 195)" filter="url(#cardShadow)">
+      <rect width="525" height="180" rx="12" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+      <circle cx="28" cy="28" r="12" fill="#1d4ed8"/>
+      <text x="28" y="33" fill="#ffffff" font-size="12" font-weight="800" text-anchor="middle">✓</text>
+      <text x="48" y="33" fill="#0b172a" font-size="16" font-weight="800">High-Density Hybrid Repatriation (30% Savings)</text>
+      
+      <g transform="translate(20, 62)">
+        <text x="0" y="18" fill="#475569" font-size="13.5">Repatriating steady-state production inference to sovereign,</text>
+        <text x="0" y="38" fill="#475569" font-size="13.5">liquid-cooled high-density racks while cloud-bursting irregular peaks.</text>
+        <text x="0" y="70" fill="#1d4ed8" font-size="12.5" font-weight="700">Metric: Delivers 1.08 PUE with sovereign data residency.</text>
+      </g>
+    </g>
+
+    <!-- Lever 4 -->
+    <g transform="translate(555, 195)" filter="url(#cardShadow)">
+      <rect width="525" height="180" rx="12" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+      <circle cx="28" cy="28" r="12" fill="#1d4ed8"/>
+      <text x="28" y="33" fill="#ffffff" font-size="12" font-weight="800" text-anchor="middle">✓</text>
+      <text x="48" y="33" fill="#0b172a" font-size="16" font-weight="800">Unit Task Financial Attribution</text>
+      
+      <g transform="translate(20, 62)">
+        <text x="0" y="18" fill="#475569" font-size="13.5">Connecting every cognitive token directly to business unit</text>
+        <text x="0" y="38" fill="#475569" font-size="13.5">P&amp;L lines and customer margin expansion milestones.</text>
+        <text x="0" y="70" fill="#1d4ed8" font-size="12.5" font-weight="700">Metric: 100% financial visibility on corporate general ledger.</text>
+      </g>
+    </g>
+  </g>
+  
+
+  <!-- Executive CTA Banner -->
+  <g transform="translate(60, 1140)" filter="url(#ctaShadow)">
+    <rect width="1080" height="120" rx="16" fill="url(#ctaGrad)"/>
+    <rect width="1080" height="120" rx="16" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-opacity="0.5"/>
+
+    <g transform="translate(40, 36)">
+      <text x="0" y="24" fill="#ffffff" font-size="23" font-weight="900" letter-spacing="-0.3">
+        Download TrustGrid&apos;s AI Value Expansion Framework
+      </text>
+      <text x="0" y="52" fill="#93c5fd" font-size="14" font-weight="600">
+        DM 'AI-DIAGNOSTIC' to benchmark your enterprise readiness with TrustGrid engineers.
+      </text>
+    </g>
+
+    <g transform="translate(740, 36)">
+      <rect width="300" height="50" rx="25" fill="#ffffff" filter="url(#cardShadow)"/>
+      <text x="150" y="31" fill="#0b172a" font-size="13" font-weight="900" letter-spacing="0.8" text-anchor="middle">
+        REQUEST PEER REVIEW →
+      </text>
+    </g>
+  </g>
+
+  <!-- Footer Bar -->
+  <g transform="translate(60, 1315)">
+    <line x1="0" y1="0" x2="1080" y2="0" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="0" y="34" fill="#0b172a" font-size="13.5" font-weight="900" letter-spacing="1">WWW.TRUSTGRID.AI</text>
+    <text x="1080" y="34" fill="#475569" font-size="11.5" font-weight="700" letter-spacing="1.2" text-anchor="end">
+      AI INFRASTRUCTURE • GPU OPTIMIZATION • AGENTIC SYSTEMS • ZERO-TRUST GOVERNANCE
+    </text>
   </g>
 </svg>
