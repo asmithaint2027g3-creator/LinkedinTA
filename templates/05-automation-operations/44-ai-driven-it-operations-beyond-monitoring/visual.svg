@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" style="background:#080c14; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="40%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b132b"/>
+    </linearGradient>
+    <filter id="shadowFilter" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+
+  <!-- Subtle Blueprint Tech Grid -->
+  <g opacity="0.05" stroke="#a855f7" stroke-width="1">
+    <line x1="80" y1="0" x2="80" y2="1350"/>
+    <line x1="540" y1="0" x2="540" y2="1350"/>
+    <line x1="1000" y1="0" x2="1000" y2="1350"/>
+    <line x1="0" y1="180" x2="1080" y2="180"/>
+    <line x1="0" y1="680" x2="1080" y2="680"/>
+    <line x1="0" y1="1160" x2="1080" y2="1160"/>
+  </g>
+
+  <!-- Top Header Bar -->
+  <g transform="translate(80, 65)">
+    <!-- Brand Plate -->
+    <rect x="0" y="0" width="165" height="34" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="16" y="22" fill="#38bdf8" font-size="13" font-weight="800" letter-spacing="1.5">TRUSTGRID.AI</text>
+    
+    <!-- Category Pill -->
+    <rect x="180" y="0" width="280" height="34" rx="6" fill="#1e1b4b" stroke="#6366f1" stroke-width="1"/>
+    <text x="195" y="22" fill="#c7d2fe" font-size="11.5" font-weight="700" letter-spacing="1">AUTOMATION &amp; OPERATIONS</text>
+
+    <!-- Series & ID -->
+    <text x="920" y="22" fill="#64748b" font-size="13" font-weight="600" text-anchor="end" letter-spacing="1">AI FACTORY FRIDAYS • #044</text>
+  </g>
+
+  <!-- Title & Problem Banner -->
+  <g transform="translate(80, 145)">
+    <text x="0" y="42" fill="#f8fafc" font-size="38" font-weight="800" letter-spacing="-0.5">AUTONOMOUS IT OPERATIONS (AIOPS)</text>
+    <text x="0" y="80" fill="#94a3b8" font-size="18.5" font-weight="400">From Alert Fatigue to Closed-Loop Autonomous Diagnosis &amp; Remediation</text>
+  </g>
+
+  <!-- Technical Pillar Cards -->
+  
+      <!-- Card 1 -->
+      <g transform="translate(80, 300)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#6366f1"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#1e1b4b" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#a855f7" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">01</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Root-Cause Correlation</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Ingesting logs, metrics, traces, and Kubernetes events to identify the exact...</text>
+      </g>
+    
+
+      <!-- Card 2 -->
+      <g transform="translate(80, 465)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#6366f1"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#1e1b4b" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#a855f7" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">02</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Autonomous Runbook Execution</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Agents safely execute pre-verified remediation runbooks (draining nodes,...</text>
+      </g>
+    
+
+      <!-- Card 3 -->
+      <g transform="translate(80, 630)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#6366f1"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#1e1b4b" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#a855f7" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">03</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Self-Healing Infrastructure</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Mitigating 80% of Tier-1 and Tier-2 incidents before end-user synthetic...</text>
+      </g>
+    
+
+      <!-- Card 4 -->
+      <g transform="translate(80, 795)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#6366f1"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#1e1b4b" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#a855f7" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">04</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Automated Incident Post-Mortems</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Generating draft root-cause analyses with full timeline telemetry for human...</text>
+      </g>
+    
+
+  <!-- Strategic Takeaway & Rule Banner -->
+  <g transform="translate(80, 995)" filter="url(#shadowFilter)">
+    <rect width="920" height="150" rx="14" fill="#0f172a" stroke="#6366f1" stroke-width="1.5"/>
+    <rect x="0" y="0" width="920" height="38" rx="14" fill="#1e1b4b"/>
+    <text x="24" y="24" fill="#a855f7" font-size="12" font-weight="700" letter-spacing="1.5">ENTERPRISE ARCHITECTURE TAKEAWAY</text>
+    
+    <text x="24" y="74" fill="#f8fafc" font-size="18" font-weight="700">"Move from AI that merely tells you your systems are broken to AI that autonomously diagnoses and heals them."</text>
+    <text x="24" y="112" fill="#94a3b8" font-size="14">Deploy with sovereign data boundaries, formal verification, and deterministic SLAs.</text>
+  </g>
+
+  <!-- Bottom CTA Footer -->
+  <g transform="translate(80, 1175)">
+    <rect width="920" height="96" rx="12" fill="#1e1b4b" fill-opacity="0.3" stroke="#6366f1" stroke-width="1"/>
+    
+    <text x="32" y="38" fill="#a855f7" font-size="12.5" font-weight="700" letter-spacing="1">TRUSTGRID.AI ENGINEERING SERVICES</text>
+    <text x="32" y="68" fill="#f8fafc" font-size="17" font-weight="700">Forward Deployed Engineering Pods embedded inside your sovereign infrastructure.</text>
+
+    <!-- CTA Button -->
+    <rect x="680" y="25" width="208" height="46" rx="8" fill="#6366f1"/>
+    <text x="784" y="53" fill="#ffffff" font-size="13.5" font-weight="700" text-anchor="middle">Explore Solutions →</text>
+  </g>
+
+  <!-- Footnote -->
+  <g transform="translate(80, 1315)">
+    <text x="0" y="0" fill="#475569" font-size="12" font-weight="500">© TRUSTGRID.AI • ENTERPRISE AI ENGINEERING • SOVEREIGN INFRASTRUCTURE &amp; AGENTS</text>
+    <text x="920" y="0" fill="#a855f7" font-size="12" font-weight="600" text-anchor="end">trustgrid.ai</text>
+  </g>
+</svg>

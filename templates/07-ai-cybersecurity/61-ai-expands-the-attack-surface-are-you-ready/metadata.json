@@ -1,0 +1,23 @@
+{
+  "topicId": 61,
+  "slug": "61-ai-expands-the-attack-surface-are-you-ready",
+  "title": "AI Expands the Attack Surface. Are You Ready?",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "TXT",
+  "targetAudience": "CISOs, Security Directors, Enterprise Architects, Chief Risk Officers",
+  "readerProblem": "Relying on traditional perimeter firewalls to protect systems against non-deterministic AI threats like indirect prompt injection and data poisoning.",
+  "funnelStage": "Awareness / Problem Identification",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Request an AI Threat Model & Security Posture Assessment",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AICybersecurity",
+    "#CISO",
+    "#ThreatModeling",
+    "#ZeroTrust",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

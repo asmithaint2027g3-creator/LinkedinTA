@@ -1,0 +1,23 @@
+{
+  "topicId": 83,
+  "slug": "83-governance-challenges-in-agentic-enterprises",
+  "title": "Governance Challenges in Agentic Enterprises",
+  "category": "Trusted AI & Governance",
+  "categoryFolder": "09-trusted-ai-governance",
+  "format": "TXT",
+  "targetAudience": "Chief Risk Officers, General Counsels, Heads of AI Governance",
+  "readerProblem": "Attempting to apply single-model governance policies to multi-agent swarms where decision responsibility is distributed across dozens of actors.",
+  "funnelStage": "Governance Challenges / Advisory",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Request an Agentic Governance Assessment with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AgenticGovernance",
+    "#MultiAgentSystems",
+    "#EnterpriseRisk",
+    "#Compliance",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Trusted AI & Governance practice"
+}

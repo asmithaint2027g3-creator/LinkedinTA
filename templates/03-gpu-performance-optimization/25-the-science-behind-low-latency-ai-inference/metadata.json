@@ -1,0 +1,23 @@
+{
+  "topicId": 25,
+  "slug": "25-the-science-behind-low-latency-ai-inference",
+  "title": "The Science Behind Low-Latency AI Inference",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "IMG",
+  "targetAudience": "AI Architects, Principal Engineers, Engineering VPs",
+  "readerProblem": "Inference pipelines exceeding 1,500ms time-to-first-token, destroying real-time conversational and autonomous agent utility.",
+  "funnelStage": "Technical Deep-Dive",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Request an Inference Latency Diagnostic with TrustGrid Engineers",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#LowLatency",
+    "#InferenceServing",
+    "#vLLM",
+    "#AIArchitecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

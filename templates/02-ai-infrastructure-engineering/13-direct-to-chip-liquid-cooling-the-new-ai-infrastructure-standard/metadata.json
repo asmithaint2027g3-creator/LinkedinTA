@@ -1,0 +1,23 @@
+{
+  "topicId": 13,
+  "slug": "13-direct-to-chip-liquid-cooling-the-new-ai-infrastructure-standard",
+  "title": "Direct-to-Chip Liquid Cooling: The New AI Infrastructure Standard",
+  "category": "AI Infrastructure Engineering",
+  "categoryFolder": "02-ai-infrastructure-engineering",
+  "format": "IMG",
+  "targetAudience": "Facilities Leaders, Data Center Engineers, CTOs, AI Infrastructure Architects",
+  "readerProblem": "Air cooling has reached its physical thermodynamic limits for GPUs exceeding 700W TDP, causing thermal throttling and hardware degradation.",
+  "funnelStage": "Technical Evaluation",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Review TrustGrid's Liquid Cooling Architecture Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#LiquidCooling",
+    "#AIInfrastructure",
+    "#DataCenterDesign",
+    "#HardwareEngineering",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Infrastructure Engineering practice"
+}

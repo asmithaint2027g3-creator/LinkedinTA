@@ -1,0 +1,23 @@
+{
+  "topicId": 90,
+  "slug": "90-reducing-ai-infrastructure-tco-by-40-75-percent",
+  "title": "Reducing AI Infrastructure TCO by 40–75%",
+  "category": "AI Economics & Value Engineering",
+  "categoryFolder": "10-ai-economics-value-engineering",
+  "format": "IMG",
+  "targetAudience": "CFOs, CTOs, Procurement Executives, Infrastructure Directors",
+  "readerProblem": "Overpaying hyperscalers for retail on-demand GPU instances without optimizing the underlying systems architecture.",
+  "funnelStage": "TCO Reduction / Case for Action",
+  "series": "AI Value Engineering",
+  "suggestedPublishingDay": "Wednesday",
+  "primaryCta": "Schedule an AI Infrastructure TCO Diagnostic with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#TCOReduction",
+    "#InfrastructureSavings",
+    "#AIEconomics",
+    "#FinOps",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Economics & Value Engineering practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 29,
+  "slug": "29-reducing-inference-costs-without-sacrificing-accuracy",
+  "title": "Reducing Inference Costs Without Sacrificing Accuracy",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "TXT",
+  "targetAudience": "VPs of Engineering, ML Architects, CFOs",
+  "readerProblem": "Fearing that model quantization or compression will degrade mission-critical task accuracy in regulated environments.",
+  "funnelStage": "Technical Evaluation / FinOps",
+  "series": "AI Value Engineering",
+  "suggestedPublishingDay": "Wednesday",
+  "primaryCta": "Schedule a Model Compression & Quantization Diagnostic",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#ModelQuantization",
+    "#InferenceOptimization",
+    "#FinOps",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

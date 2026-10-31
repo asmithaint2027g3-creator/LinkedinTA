@@ -1,0 +1,23 @@
+{
+  "topicId": 73,
+  "slug": "73-what-is-quantum-safe-defense",
+  "title": "What Is Quantum-Safe Defense?",
+  "category": "Quantum-Safe Security",
+  "categoryFolder": "08-quantum-safe-security",
+  "format": "IMG",
+  "targetAudience": "Enterprise Architects, CISOs, Technology Directors, Risk Leaders",
+  "readerProblem": "Confusing post-quantum cryptography with quantum key distribution or quantum computing hardware.",
+  "funnelStage": "Education / Technical Clarification",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Review TrustGrid's Quantum-Safe Defense Architecture",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#QuantumSafe",
+    "#CyberDefense",
+    "#EnterpriseSecurity",
+    "#PQC",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Quantum-Safe Security practice"
+}

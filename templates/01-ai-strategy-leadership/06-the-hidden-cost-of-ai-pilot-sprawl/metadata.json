@@ -1,0 +1,23 @@
+{
+  "topicId": 6,
+  "slug": "06-the-hidden-cost-of-ai-pilot-sprawl",
+  "title": "The Hidden Cost of AI Pilot Sprawl",
+  "category": "AI Strategy & Leadership",
+  "categoryFolder": "01-ai-strategy-leadership",
+  "format": "IMG",
+  "targetAudience": "CFOs, CIOs, Enterprise Architects, VPs of Infrastructure",
+  "readerProblem": "Uncoordinated business units launching dozens of redundant, insecure AI experiments that waste budget and leak data.",
+  "funnelStage": "Awareness / Problem Identification",
+  "series": "AI Value Engineering",
+  "suggestedPublishingDay": "Wednesday",
+  "primaryCta": "Request an AI Pilot Audit & Infrastructure Consolidation Assessment",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIFinOps",
+    "#EnterpriseAI",
+    "#CIO",
+    "#AIArchitecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Strategy & Leadership practice"
+}

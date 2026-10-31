@@ -1,0 +1,23 @@
+{
+  "topicId": 26,
+  "slug": "26-maximizing-enterprise-gpu-roi",
+  "title": "Maximizing Enterprise GPU ROI",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "IMG",
+  "targetAudience": "CFOs, CIOs, Procurement Executives, ML Platform Directors",
+  "readerProblem": "Massive hardware investments struggling to justify their balance sheet amortization against actual business outcomes.",
+  "funnelStage": "Value Realization / FinOps",
+  "series": "AI Value Engineering",
+  "suggestedPublishingDay": "Wednesday",
+  "primaryCta": "Calculate Your GPU ROI with TrustGrid's Value Engineering Model",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#GPUEconomics",
+    "#AIROI",
+    "#FinOps",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

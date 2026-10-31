@@ -1,0 +1,23 @@
+{
+  "topicId": 57,
+  "slug": "57-the-role-of-networking-in-gpu-scaling",
+  "title": "The Role of Networking in GPU Scaling",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "IMG",
+  "targetAudience": "CTOs, ML Platform Leaders, Infrastructure Executives",
+  "readerProblem": "Experiencing sub-linear scaling where doubling GPU count only yields 1.3x performance gains due to network communication overhead.",
+  "funnelStage": "Education / Scaling Math",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Benchmark Your Cluster Scaling Efficiency with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#GPUScaling",
+    "#LinearScaling",
+    "#DistributedAI",
+    "#ClusterEngineering",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 51,
+  "slug": "51-why-ai-workloads-break-traditional-networks",
+  "title": "Why AI Workloads Break Traditional Networks",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "IMG",
+  "targetAudience": "Network Architects, Infrastructure Directors, Data Center Engineers, CTOs",
+  "readerProblem": "Running distributed AI training or high-throughput inference over legacy enterprise Ethernet fabrics designed for web traffic.",
+  "funnelStage": "Problem Identification / Technical",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Schedule an AI Network Fabric Diagnostic with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AINetworking",
+    "#RoCEv2",
+    "#InfiniBand",
+    "#DataCenter",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

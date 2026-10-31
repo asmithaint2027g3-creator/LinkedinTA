@@ -1,0 +1,23 @@
+{
+  "topicId": 80,
+  "slug": "80-ai-compliance-nist-eu-ai-act-and-enterprise-readiness",
+  "title": "AI Compliance: NIST, EU AI Act & Enterprise Readiness",
+  "category": "Trusted AI & Governance",
+  "categoryFolder": "09-trusted-ai-governance",
+  "format": "IMG",
+  "targetAudience": "Chief Compliance Officers, CISOs, General Counsels, Chief AI Officers",
+  "readerProblem": "Fearing massive regulatory penalties under the EU AI Act (up to 7% of global turnover) and lacking an audit-ready compliance roadmap.",
+  "funnelStage": "Compliance Readiness / Audit",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Request an EU AI Act & NIST Readiness Diagnostic with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AICompliance",
+    "#EUAIAct",
+    "#NIST_AIRMF",
+    "#RegulatoryReadiness",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Trusted AI & Governance practice"
+}

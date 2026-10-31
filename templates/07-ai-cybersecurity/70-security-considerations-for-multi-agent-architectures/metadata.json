@@ -1,0 +1,23 @@
+{
+  "topicId": 70,
+  "slug": "70-security-considerations-for-multi-agent-architectures",
+  "title": "Security Considerations for Multi-Agent Architectures",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "TXT",
+  "targetAudience": "Principal Security Engineers, Multi-Agent Architects, CISOs",
+  "readerProblem": "Securing peer-to-peer communications and delegation trust relationships among dozens of autonomous agents.",
+  "funnelStage": "Technical Deep-Dive",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Explore Multi-Agent Security Protocols with TrustGrid Engineers",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#MultiAgentSecurity",
+    "#AgenticAI",
+    "#ZeroTrust",
+    "#Cybersecurity",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

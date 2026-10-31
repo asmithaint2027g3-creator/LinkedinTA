@@ -1,0 +1,23 @@
+{
+  "topicId": 44,
+  "slug": "44-ai-driven-it-operations-beyond-monitoring",
+  "title": "AI-Driven IT Operations: Beyond Monitoring",
+  "category": "Automation & Operations",
+  "categoryFolder": "05-automation-operations",
+  "format": "IMG",
+  "targetAudience": "VPs of Infrastructure, Heads of SRE, IT Operations Directors, CIOs",
+  "readerProblem": "Alert fatigue from thousands of monitoring alerts that require human engineers to spend hours triaging and writing post-mortems.",
+  "funnelStage": "Technical Evaluation / AIOps",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Explore TrustGrid's Autonomous IT Operations Engine",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIOps",
+    "#SRE",
+    "#DevOps",
+    "#ITOperations",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Automation & Operations practice"
+}

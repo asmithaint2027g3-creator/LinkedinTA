@@ -1,0 +1,23 @@
+{
+  "topicId": 65,
+  "slug": "65-why-traditional-security-models-fail-in-ai-environments",
+  "title": "Why Traditional Security Models Fail in AI Environments",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "TXT",
+  "targetAudience": "CISOs, Security Architects, Information Security VPs",
+  "readerProblem": "Assuming established AppSec practices (OWASP Top 10, static code analysis) are sufficient to secure probabilistic language models.",
+  "funnelStage": "Thought Leadership / Paradigm Shift",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Discuss Next-Gen AI Threat Defenses with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AppSec",
+    "#InfoSec",
+    "#AITreats",
+    "#Cybersecurity",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

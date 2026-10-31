@@ -1,0 +1,23 @@
+{
+  "topicId": 1,
+  "slug": "01-why-most-enterprise-ai-programs-fail-after-the-pilot-stage",
+  "title": "Why Most Enterprise AI Programs Fail After the Pilot Stage",
+  "category": "AI Strategy & Leadership",
+  "categoryFolder": "01-ai-strategy-leadership",
+  "format": "IMG",
+  "targetAudience": "CIOs, Chief AI Officers, Enterprise Architects, VPs of Transformation",
+  "readerProblem": "Enterprises celebrate successful isolated AI pilots but stall when scaling to production due to architecture, security, and integration chasms.",
+  "funnelStage": "Awareness / Problem Identification",
+  "series": "AI Leadership Briefing",
+  "suggestedPublishingDay": "Tuesday",
+  "primaryCta": "Review TrustGrid's Pilot-to-Production Operating Framework",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#EnterpriseAI",
+    "#AIStrategy",
+    "#CIO",
+    "#AIExecution",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Strategy & Leadership practice"
+}

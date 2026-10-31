@@ -1,0 +1,23 @@
+{
+  "topicId": 76,
+  "slug": "76-explainable-ai-is-becoming-a-regulatory-requirement",
+  "title": "Explainable AI Is Becoming a Regulatory Requirement",
+  "category": "Trusted AI & Governance",
+  "categoryFolder": "09-trusted-ai-governance",
+  "format": "IMG",
+  "targetAudience": "Chief Compliance Officers, General Counsels, Chief AI Officers, Risk Directors",
+  "readerProblem": "Deploying black-box neural networks for credit decisions, insurance underwriting, or hiring where regulations require explicit justification.",
+  "funnelStage": "Awareness / Regulatory Compliance",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Explore TrustGrid's Explainable AI & Attestation Framework",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#ExplainableAI",
+    "#XAI",
+    "#EUAIAct",
+    "#AIGovernance",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Trusted AI & Governance practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 8,
+  "slug": "08-why-ai-governance-cannot-be-an-afterthought",
+  "title": "Why AI Governance Cannot Be an Afterthought",
+  "category": "AI Strategy & Leadership",
+  "categoryFolder": "01-ai-strategy-leadership",
+  "format": "IMG",
+  "targetAudience": "Chief Risk Officers, General Counsels, CISOs, Chief AI Officers",
+  "readerProblem": "Treating governance as a checklist applied after systems are built, leading to scrapped deployments and regulatory fines.",
+  "funnelStage": "Awareness / Governance Focus",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Schedule an AI Governance & Compliance Architecture Review",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIGovernance",
+    "#ResponsibleAI",
+    "#EUAIAct",
+    "#CISO",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Strategy & Leadership practice"
+}

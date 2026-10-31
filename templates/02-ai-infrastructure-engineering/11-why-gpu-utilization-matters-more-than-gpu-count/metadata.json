@@ -1,0 +1,23 @@
+{
+  "topicId": 11,
+  "slug": "11-why-gpu-utilization-matters-more-than-gpu-count",
+  "title": "Why GPU Utilization Matters More Than GPU Count",
+  "category": "AI Infrastructure Engineering",
+  "categoryFolder": "02-ai-infrastructure-engineering",
+  "format": "IMG",
+  "targetAudience": "CTOs, AI Infrastructure Directors, ML Platform Architects, Data Center Leaders",
+  "readerProblem": "Enterprises overspend on massive GPU clusters while achieving only 30-40% effective utilization due to memory stalls and fabric latency.",
+  "funnelStage": "Education / Evaluation",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Request a 48-Hour AI Infrastructure Diagnostic",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIInfrastructure",
+    "#GPUOptimization",
+    "#DataCenterEngineering",
+    "#LLMOps",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Infrastructure Engineering practice"
+}

@@ -1,0 +1,24 @@
+{
+  "topicId": 4,
+  "slug": "04-boardroom-questions-every-cio-must-answer-about-ai",
+  "title": "Boardroom Questions Every CIO Must Answer About AI",
+  "category": "AI Strategy & Leadership",
+  "categoryFolder": "01-ai-strategy-leadership",
+  "format": "TXT",
+  "targetAudience": "CIOs, Chief AI Officers, Enterprise Architects, Board Directors",
+  "readerProblem": "Boardrooms are moving past POC enthusiasm to scrutinize financial attribution, autonomy reliability, and sovereign data risk.",
+  "funnelStage": "Awareness / Evaluation",
+  "series": "AI Leadership Briefing",
+  "suggestedPublishingDay": "Tuesday",
+  "primaryCta": "Benchmark enterprise AI readiness with TrustGrid's Executive Diagnostic",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIStrategy",
+    "#CIO",
+    "#EnterpriseAI",
+    "#AIGovernance",
+    "#TrustGrid",
+    "#Boardroom"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Strategy & Leadership practice"
+}

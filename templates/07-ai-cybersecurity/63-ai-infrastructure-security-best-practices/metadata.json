@@ -1,0 +1,23 @@
+{
+  "topicId": 63,
+  "slug": "63-ai-infrastructure-security-best-practices",
+  "title": "AI Infrastructure Security Best Practices",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "IMG",
+  "targetAudience": "Infrastructure Security Leads, Data Center Architects, DevSecOps Leads",
+  "readerProblem": "Overlooking physical, firmware, and network fabric vulnerabilities in bare-metal GPU clusters and data pipelines.",
+  "funnelStage": "Technical Checklist",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Download TrustGrid's AI Infrastructure Hardening Checklist",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#InfrastructureSecurity",
+    "#DataCenterSecurity",
+    "#HardwareSecurity",
+    "#DevSecOps",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

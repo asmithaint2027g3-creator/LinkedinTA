@@ -1,0 +1,23 @@
+{
+  "topicId": 31,
+  "slug": "31-what-is-an-agentic-enterprise",
+  "title": "What Is an Agentic Enterprise?",
+  "category": "Agentic Enterprise",
+  "categoryFolder": "04-agentic-enterprise",
+  "format": "IMG",
+  "targetAudience": "Heads of AI, Chief Digital Officers, Enterprise Architects, VPs of Engineering",
+  "readerProblem": "Confusing conversational chatbots with autonomous agent swarms that orchestrate actual enterprise operations.",
+  "funnelStage": "Education / Awareness",
+  "series": "Agentic Enterprise Mondays",
+  "suggestedPublishingDay": "Monday",
+  "primaryCta": "Explore TrustGrid's Enterprise Multi-Agent Architecture Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AgenticEnterprise",
+    "#AutonomousSystems",
+    "#MultiAgentSystems",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Agentic Enterprise practice"
+}

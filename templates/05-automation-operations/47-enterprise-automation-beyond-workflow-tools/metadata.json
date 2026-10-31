@@ -1,0 +1,23 @@
+{
+  "topicId": 47,
+  "slug": "47-enterprise-automation-beyond-workflow-tools",
+  "title": "Enterprise Automation Beyond Workflow Tools",
+  "category": "Automation & Operations",
+  "categoryFolder": "05-automation-operations",
+  "format": "TXT",
+  "targetAudience": "Heads of Automation, Enterprise Architects, CIOs",
+  "readerProblem": "Believing low-code Zapier/Make-style workflow builders can support mission-critical, high-consequence enterprise workloads.",
+  "funnelStage": "Technical Evaluation / Modernization",
+  "series": "Agentic Enterprise Mondays",
+  "suggestedPublishingDay": "Monday",
+  "primaryCta": "Request TrustGrid's Enterprise Automation Architecture Review",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#EnterpriseAutomation",
+    "#SystemsEngineering",
+    "#PlatformDesign",
+    "#Architecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Automation & Operations practice"
+}

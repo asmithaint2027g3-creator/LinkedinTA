@@ -1,0 +1,23 @@
+{
+  "topicId": 12,
+  "slug": "12-the-economics-of-high-density-ai-factories",
+  "title": "The Economics of High-Density AI Factories",
+  "category": "AI Infrastructure Engineering",
+  "categoryFolder": "02-ai-infrastructure-engineering",
+  "format": "IMG",
+  "targetAudience": "Data Center Directors, CFOs, Heads of Infrastructure, CTOs",
+  "readerProblem": "Legacy 10-15kW enterprise data centers cannot support modern high-density AI clusters without massive power and space overhead.",
+  "funnelStage": "Education / Solution Architecture",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Explore High-Density AI Factory Engineering with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIFactory",
+    "#DataCenter",
+    "#HighDensityCompute",
+    "#EnergyEfficiency",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Infrastructure Engineering practice"
+}

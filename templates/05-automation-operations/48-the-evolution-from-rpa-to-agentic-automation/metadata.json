@@ -1,0 +1,23 @@
+{
+  "topicId": 48,
+  "slug": "48-the-evolution-from-rpa-to-agentic-automation",
+  "title": "The Evolution From RPA to Agentic Automation",
+  "category": "Automation & Operations",
+  "categoryFolder": "05-automation-operations",
+  "format": "IMG",
+  "targetAudience": "Chief Transformation Officers, VPs of Shared Services, CIOs",
+  "readerProblem": "Being stuck with massive legacy RPA investments that deliver diminishing returns and require endless manual bot maintenance.",
+  "funnelStage": "Evolution / Modernization",
+  "series": "Agentic Enterprise Mondays",
+  "suggestedPublishingDay": "Monday",
+  "primaryCta": "Download TrustGrid's RPA-to-Agentic Modernization Guide",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#RPAModernization",
+    "#AgenticAI",
+    "#DigitalTransformation",
+    "#Automation",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Automation & Operations practice"
+}

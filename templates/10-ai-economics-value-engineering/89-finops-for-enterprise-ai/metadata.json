@@ -1,0 +1,23 @@
+{
+  "topicId": 89,
+  "slug": "89-finops-for-enterprise-ai",
+  "title": "FinOps for Enterprise AI",
+  "category": "AI Economics & Value Engineering",
+  "categoryFolder": "10-ai-economics-value-engineering",
+  "format": "IMG",
+  "targetAudience": "Cloud FinOps Directors, CFOs, VPs of Infrastructure, Engineering Leads",
+  "readerProblem": "Sudden monthly cloud bill surprises driven by un-budgeted token consumption, runaway agent loops, and idle reserved instances.",
+  "funnelStage": "Operational FinOps / Tooling",
+  "series": "AI Value Engineering",
+  "suggestedPublishingDay": "Wednesday",
+  "primaryCta": "Explore TrustGrid's Enterprise AI FinOps Architecture",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIFinOps",
+    "#CloudEconomics",
+    "#TokenCost",
+    "#CostControl",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Economics & Value Engineering practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 79,
+  "slug": "79-responsible-ai-beyond-buzzwords",
+  "title": "Responsible AI Beyond Buzzwords",
+  "category": "Trusted AI & Governance",
+  "categoryFolder": "09-trusted-ai-governance",
+  "format": "TXT",
+  "targetAudience": "Chief AI Officers, Ethics Committees, Enterprise Leaders, General Counsels",
+  "readerProblem": "Publishing lofty ethical AI principles that have zero connection to how engineers actually write code and deploy models.",
+  "funnelStage": "Thought Leadership / Practical Ethics",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Review TrustGrid's Operationalized Responsible AI Framework",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#ResponsibleAI",
+    "#AIEthics",
+    "#EngineeringStandards",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Trusted AI & Governance practice"
+}

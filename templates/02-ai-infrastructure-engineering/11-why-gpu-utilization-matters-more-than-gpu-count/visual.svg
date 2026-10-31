@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" style="background:#0b132b; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;">
+  <defs>
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b132b"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#f87171"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1080" height="1350" fill="url(#bgGlow)"/>
+
+  <!-- Subtle Blueprint Grid Lines -->
+  <g opacity="0.07" stroke="#38bdf8" stroke-width="1">
+    <line x1="80" y1="0" x2="80" y2="1350"/>
+    <line x1="540" y1="0" x2="540" y2="1350"/>
+    <line x1="1000" y1="0" x2="1000" y2="1350"/>
+    <line x1="0" y1="200" x2="1080" y2="200"/>
+    <line x1="0" y1="720" x2="1080" y2="720"/>
+    <line x1="0" y1="1200" x2="1080" y2="1200"/>
+  </g>
+
+  <!-- Top Header / Brand Bar -->
+  <g transform="translate(80, 70)">
+    <!-- Brand Tag -->
+    <rect x="0" y="0" width="160" height="34" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="16" y="22" fill="#38bdf8" font-size="13" font-weight="700" letter-spacing="1.5">TRUSTGRID.AI</text>
+    
+    <!-- Category Pill -->
+    <rect x="175" y="0" width="225" height="34" rx="6" fill="#0369a1" fill-opacity="0.25" stroke="#0284c7" stroke-width="1"/>
+    <text x="190" y="22" fill="#7dd3fc" font-size="12" font-weight="600" letter-spacing="1">AI INFRASTRUCTURE</text>
+
+    <!-- Series & Topic Number -->
+    <text x="920" y="22" fill="#64748b" font-size="13" font-weight="600" text-anchor="end" letter-spacing="1">AI FACTORY FRIDAYS • #011</text>
+  </g>
+
+  <!-- Main Headline -->
+  <g transform="translate(80, 155)">
+    <text x="0" y="42" fill="#f8fafc" font-size="44" font-weight="800" letter-spacing="-0.5">Silicon Count vs. Utilization</text>
+    <text x="0" y="82" fill="#94a3b8" font-size="20" font-weight="400">Why 128 Optimized GPUs routinely outperform 512 Unoptimized GPUs</text>
+  </g>
+
+  <!-- Comparison Section (Two Cards) -->
+  <!-- Left Card: The Vanity Cluster -->
+  <g transform="translate(80, 275)" filter="url(#cardShadow)">
+    <rect width="440" height="390" rx="14" fill="#0f172a" stroke="#ef4444" stroke-opacity="0.4" stroke-width="1.5"/>
+    
+    <!-- Card Header -->
+    <rect x="0" y="0" width="440" height="54" rx="14" fill="#1e1b2e"/>
+    <text x="24" y="34" fill="#f87171" font-size="14" font-weight="700" letter-spacing="1">UNOPTIMIZED GPU CLUSTER</text>
+    <circle cx="410" cy="27" r="6" fill="#ef4444"/>
+
+    <!-- Key Metrics -->
+    <text x="24" y="105" fill="#64748b" font-size="13" font-weight="500">PROVISIONED SILICON</text>
+    <text x="24" y="145" fill="#f8fafc" font-size="38" font-weight="800">512 <tspan font-size="20" fill="#94a3b8" font-weight="500">GPUs</tspan></text>
+
+    <!-- Utilization Progress Bar -->
+    <text x="24" y="185" fill="#94a3b8" font-size="13">Model FLOPs Utilization (MFU)</text>
+    <text x="416" y="185" fill="#f87171" font-size="14" font-weight="700" text-anchor="end">34%</text>
+    <rect x="24" y="196" width="392" height="12" rx="6" fill="#1e293b"/>
+    <rect x="24" y="196" width="133" height="12" rx="6" fill="url(#redGrad)"/>
+
+    <!-- Breakdown bullets -->
+    <g transform="translate(24, 240)">
+      <circle cx="4" cy="4" r="3" fill="#ef4444"/>
+      <text x="18" y="8" fill="#cbd5e1" font-size="14" font-weight="500">42% Lost to Attention Memory Stalls</text>
+      
+      <circle cx="4" cy="34" r="3" fill="#ef4444"/>
+      <text x="18" y="38" fill="#cbd5e1" font-size="14" font-weight="500">18% Interconnect Packet Retransmits</text>
+
+      <circle cx="4" cy="64" r="3" fill="#ef4444"/>
+      <text x="18" y="68" fill="#cbd5e1" font-size="14" font-weight="500">High Thermal Dissipation (~450 kW)</text>
+    </g>
+
+    <!-- Result Pill -->
+    <rect x="24" y="336" width="392" height="34" rx="6" fill="#450a0a" stroke="#7f1d1d" stroke-width="1"/>
+    <text x="220" y="358" fill="#fca5a5" font-size="13" font-weight="600" text-anchor="middle">Effective Compute Yield: ~174 Active GPUs</text>
+  </g>
+
+  <!-- Right Card: TrustGrid Optimized AI Factory -->
+  <g transform="translate(560, 275)" filter="url(#cardShadow)">
+    <rect width="440" height="390" rx="14" fill="#0f172a" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.5"/>
+    
+    <!-- Card Header -->
+    <rect x="0" y="0" width="440" height="54" rx="14" fill="#062d27"/>
+    <text x="24" y="34" fill="#34d399" font-size="14" font-weight="700" letter-spacing="1">TRUSTGRID TUNED AI FACTORY</text>
+    <circle cx="410" cy="27" r="6" fill="#10b981"/>
+
+    <!-- Key Metrics -->
+    <text x="24" y="105" fill="#64748b" font-size="13" font-weight="500">PROVISIONED SILICON</text>
+    <text x="24" y="145" fill="#f8fafc" font-size="38" font-weight="800">128 <tspan font-size="20" fill="#38bdf8" font-weight="500">GPUs (75% Less Hardware)</tspan></text>
+
+    <!-- Utilization Progress Bar -->
+    <text x="24" y="185" fill="#94a3b8" font-size="13">Model FLOPs Utilization (MFU)</text>
+    <text x="416" y="185" fill="#34d399" font-size="14" font-weight="700" text-anchor="end">82%</text>
+    <rect x="24" y="196" width="392" height="12" rx="6" fill="#1e293b"/>
+    <rect x="24" y="196" width="321" height="12" rx="6" fill="url(#emeraldGrad)"/>
+
+    <!-- Breakdown bullets -->
+    <g transform="translate(24, 240)">
+      <circle cx="4" cy="4" r="3" fill="#10b981"/>
+      <text x="18" y="8" fill="#e2e8f0" font-size="14" font-weight="500">Custom FlashAttention-3 Kernel Fusion</text>
+      
+      <circle cx="4" cy="34" r="3" fill="#10b981"/>
+      <text x="18" y="38" fill="#e2e8f0" font-size="14" font-weight="500">Lossless RoCEv2 Fabric (PFC + ECN)</text>
+
+      <circle cx="4" cy="64" r="3" fill="#10b981"/>
+      <text x="18" y="68" fill="#e2e8f0" font-size="14" font-weight="500">Direct-to-Chip Liquid Cooling (~115 kW)</text>
+    </g>
+
+    <!-- Result Pill -->
+    <rect x="24" y="336" width="392" height="34" rx="6" fill="#064e3b" stroke="#059669" stroke-width="1"/>
+    <text x="220" y="358" fill="#a7f3d0" font-size="13" font-weight="600" text-anchor="middle">Effective Compute Yield: ~105 Sustained GPUs</text>
+  </g>
+
+  <!-- Middle Section: 3 Critical Architectural Levers -->
+  <g transform="translate(80, 705)">
+    <text x="0" y="24" fill="#38bdf8" font-size="13" font-weight="700" letter-spacing="1.5">ENGINEERING THE 2.5X MULTIPLIER</text>
+    <text x="0" y="58" fill="#f8fafc" font-size="28" font-weight="700">Three Bottlenecks Preventing Peak Throughput</text>
+
+    <!-- Lever 1 -->
+    <g transform="translate(0, 95)" filter="url(#cardShadow)">
+      <rect width="920" height="96" rx="10" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="96" rx="3" fill="#0284c7"/>
+      <circle cx="46" cy="48" r="22" fill="#0369a1" fill-opacity="0.3"/>
+      <text x="46" y="54" fill="#38bdf8" font-size="16" font-weight="700" text-anchor="middle">01</text>
+      <text x="86" y="38" fill="#f8fafc" font-size="18" font-weight="700">High-Bandwidth Memory (HBM) Stalls</text>
+      <text x="86" y="68" fill="#94a3b8" font-size="14">Un-fused kernels force constant DRAM I/O roundtrips. Custom fused CUDA kernels keep tensor math on-chip.</text>
+    </g>
+
+    <!-- Lever 2 -->
+    <g transform="translate(0, 210)" filter="url(#cardShadow)">
+      <rect width="920" height="96" rx="10" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="96" rx="3" fill="#0284c7"/>
+      <circle cx="46" cy="48" r="22" fill="#0369a1" fill-opacity="0.3"/>
+      <text x="46" y="54" fill="#38bdf8" font-size="16" font-weight="700" text-anchor="middle">02</text>
+      <text x="86" y="38" fill="#f8fafc" font-size="18" font-weight="700">Collective Communication Serialization</text>
+      <text x="86" y="68" fill="#94a3b8" font-size="14">All-reduce operations stall all GPUs during gradient sync. Adaptive routing &amp; RoCEv2 eliminate network congestion.</text>
+    </g>
+
+    <!-- Lever 3 -->
+    <g transform="translate(0, 325)" filter="url(#cardShadow)">
+      <rect width="920" height="96" rx="10" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="96" rx="3" fill="#0284c7"/>
+      <circle cx="46" cy="48" r="22" fill="#0369a1" fill-opacity="0.3"/>
+      <text x="46" y="54" fill="#38bdf8" font-size="16" font-weight="700" text-anchor="middle">03</text>
+      <text x="86" y="38" fill="#f8fafc" font-size="18" font-weight="700">KV-Cache Memory Fragmentation</text>
+      <text x="86" y="68" fill="#94a3b8" font-size="14">Dynamic continuous batching (PagedAttention) eliminates up to 60-80% of wasted VRAM during high-concurrency inference.</text>
+    </g>
+  </g>
+
+  <!-- Bottom Banner & Footer -->
+  <g transform="translate(80, 1175)">
+    <rect width="920" height="110" rx="12" fill="#0284c7" fill-opacity="0.12" stroke="#0284c7" stroke-width="1"/>
+    
+    <text x="36" y="44" fill="#38bdf8" font-size="13" font-weight="700" letter-spacing="1">THE TRUSTGRID RULE OF COMPUTE</text>
+    <text x="36" y="78" fill="#f8fafc" font-size="20" font-weight="700">"Never scale cluster footprint before optimizing cluster saturation."</text>
+    
+    <!-- CTA Button Badge -->
+    <rect x="660" y="32" width="224" height="46" rx="8" fill="#0284c7"/>
+    <text x="772" y="60" fill="#ffffff" font-size="14" font-weight="700" text-anchor="middle">Request AI Diagnostic →</text>
+  </g>
+
+  <!-- Very Bottom Footnote -->
+  <g transform="translate(80, 1318)">
+    <text x="0" y="0" fill="#475569" font-size="12" font-weight="500">© TRUSTGRID.AI • ENTERPRISE AI ENGINEERING • SILICON-TO-AGENT FACTORIES</text>
+    <text x="920" y="0" fill="#0ea5e9" font-size="12" font-weight="600" text-anchor="end">trustgrid.ai</text>
+  </g>
+</svg>
+

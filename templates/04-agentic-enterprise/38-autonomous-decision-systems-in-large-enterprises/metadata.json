@@ -1,0 +1,23 @@
+{
+  "topicId": 38,
+  "slug": "38-autonomous-decision-systems-in-large-enterprises",
+  "title": "Autonomous Decision Systems in Large Enterprises",
+  "category": "Agentic Enterprise",
+  "categoryFolder": "04-agentic-enterprise",
+  "format": "TXT",
+  "targetAudience": "Chief Risk Officers, CIOs, Enterprise Architects, VPs of Operations",
+  "readerProblem": "Fearing loss of control when delegating high-consequence operational decisions to autonomous software algorithms.",
+  "funnelStage": "Governance / Strategic Reassurance",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Request an Autonomous Decision Governance Briefing",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AutonomousSystems",
+    "#RiskManagement",
+    "#AIGovernance",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Agentic Enterprise practice"
+}

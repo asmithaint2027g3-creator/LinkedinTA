@@ -1,0 +1,23 @@
+{
+  "topicId": 81,
+  "slug": "81-trust-engineering-for-autonomous-systems",
+  "title": "Trust Engineering for Autonomous Systems",
+  "category": "Trusted AI & Governance",
+  "categoryFolder": "09-trusted-ai-governance",
+  "format": "IMG",
+  "targetAudience": "Systems Architects, AI Engineers, Reliability Leads",
+  "readerProblem": "Lacking the specific engineering primitives (guardrails, circuit breakers, consensus mechanisms) needed to make autonomous systems reliable.",
+  "funnelStage": "Technical Deep-Dive / Architecture",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Explore TrustGrid's Trust Engineering Architecture Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#TrustEngineering",
+    "#AutonomousSystems",
+    "#SystemDesign",
+    "#Reliability",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Trusted AI & Governance practice"
+}

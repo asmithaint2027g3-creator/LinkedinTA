@@ -1,0 +1,22 @@
+{
+  "topicId": 55,
+  "slug": "55-engineering-low-latency-ai-fabrics",
+  "title": "Engineering Low-Latency AI Fabrics",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "IMG",
+  "targetAudience": "Principal Network Engineers, ML Systems Architects, CTOs",
+  "readerProblem": "Lacking the precise engineering methodology required to configure switch buffers, congestion notifications, and rail alignments.",
+  "funnelStage": "Technical Deep-Dive",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Review TrustGrid's Low-Latency Fabric Architecture Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#LowLatency",
+    "#FabricEngineering",
+    "#DataCenterNetworking",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 93,
+  "slug": "93-ai-economics-cost-per-insight-vs-cost-per-compute",
+  "title": "AI Economics: Cost per Insight vs Cost per Compute",
+  "category": "AI Economics & Value Engineering",
+  "categoryFolder": "10-ai-economics-value-engineering",
+  "format": "TXT",
+  "targetAudience": "Chief Data Officers, Heads of AI Engineering, CFOs",
+  "readerProblem": "Fixating on the hourly cost of GPU compute rather than the total cost of producing an actionable, verified business outcome.",
+  "funnelStage": "Paradigm Shift / Metrics",
+  "series": "AI Value Engineering",
+  "suggestedPublishingDay": "Wednesday",
+  "primaryCta": "Schedule an AI Economics Diagnostic with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIEconomics",
+    "#UnitEconomics",
+    "#CostPerInsight",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Economics & Value Engineering practice"
+}

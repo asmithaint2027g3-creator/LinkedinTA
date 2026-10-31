@@ -1,0 +1,23 @@
+{
+  "topicId": 36,
+  "slug": "36-building-enterprise-grade-multi-agent-architectures",
+  "title": "Building Enterprise-Grade Multi-Agent Architectures",
+  "category": "Agentic Enterprise",
+  "categoryFolder": "04-agentic-enterprise",
+  "format": "IMG",
+  "targetAudience": "Chief Architects, Lead Engineers, Heads of AI Engineering",
+  "readerProblem": "Open-source agent frameworks (AutoGPT, CrewAI) failing in production due to infinite loops, unhandled tool errors, and zero state recovery.",
+  "funnelStage": "Technical Evaluation / Architecture",
+  "series": "Agentic Enterprise Mondays",
+  "suggestedPublishingDay": "Monday",
+  "primaryCta": "Download TrustGrid's Enterprise-Grade Multi-Agent Reference Architecture",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AgentArchitecture",
+    "#EnterpriseEngineering",
+    "#SoftwareDesign",
+    "#Reliability",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Agentic Enterprise practice"
+}

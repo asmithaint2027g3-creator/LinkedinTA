@@ -1,0 +1,23 @@
+{
+  "topicId": 2,
+  "slug": "02-from-ai-experimentation-to-enterprise-ai-operations",
+  "title": "From AI Experimentation to Enterprise AI Operations",
+  "category": "AI Strategy & Leadership",
+  "categoryFolder": "01-ai-strategy-leadership",
+  "format": "TXT",
+  "targetAudience": "CIOs, CTOs, Heads of ML Platforms, Enterprise Transformation Leads",
+  "readerProblem": "Treating AI as a series of ad-hoc science experiments rather than an operational discipline with standardized runbooks.",
+  "funnelStage": "Education / Solution Framing",
+  "series": "AI Leadership Briefing",
+  "suggestedPublishingDay": "Tuesday",
+  "primaryCta": "Schedule an AI Operations Architecture Diagnostic",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIOps",
+    "#LLMOps",
+    "#EnterpriseAI",
+    "#AIStrategy",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Strategy & Leadership practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 69,
+  "slug": "69-building-resilient-ai-platforms",
+  "title": "Building Resilient AI Platforms",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "TXT",
+  "targetAudience": "Heads of Platform Engineering, Chief Architects, CTOs",
+  "readerProblem": "Building fragile AI stacks that collapse when an external API fails, a model hallucinates, or a network partition occurs.",
+  "funnelStage": "Systems Engineering / Reliability",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Review TrustGrid's Resilient AI Platform Engineering Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#ResilientAI",
+    "#PlatformEngineering",
+    "#Reliability",
+    "#SRE",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

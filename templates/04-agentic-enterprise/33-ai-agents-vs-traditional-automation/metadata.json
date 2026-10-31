@@ -1,0 +1,23 @@
+{
+  "topicId": 33,
+  "slug": "33-ai-agents-vs-traditional-automation",
+  "title": "AI Agents vs Traditional Automation",
+  "category": "Agentic Enterprise",
+  "categoryFolder": "04-agentic-enterprise",
+  "format": "IMG",
+  "targetAudience": "Heads of Automation, RPA Directors, Enterprise Architects",
+  "readerProblem": "Investing in brittle RPA bots that break whenever a UI changes or an unhandled edge case appears in unstructured data.",
+  "funnelStage": "Comparison / Modernization",
+  "series": "Agentic Enterprise Mondays",
+  "suggestedPublishingDay": "Monday",
+  "primaryCta": "Review TrustGrid's RPA-to-Agentic Migration Framework",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#RPA",
+    "#AgenticAI",
+    "#Automation",
+    "#DigitalTransformation",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Agentic Enterprise practice"
+}

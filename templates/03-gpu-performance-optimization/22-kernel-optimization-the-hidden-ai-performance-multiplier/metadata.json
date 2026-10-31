@@ -1,0 +1,23 @@
+{
+  "topicId": 22,
+  "slug": "22-kernel-optimization-the-hidden-ai-performance-multiplier",
+  "title": "Kernel Optimization: The Hidden AI Performance Multiplier",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "IMG",
+  "targetAudience": "CUDA Engineers, ML Systems Architects, Performance Directors",
+  "readerProblem": "Relying on generic library kernels that make redundant High-Bandwidth Memory roundtrips for multi-step attention calculations.",
+  "funnelStage": "Technical Deep-Dive",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Explore Custom CUDA & Triton Optimization with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#KernelOptimization",
+    "#CUDA",
+    "#Triton",
+    "#DeepLearning",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

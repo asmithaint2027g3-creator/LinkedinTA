@@ -1,0 +1,23 @@
+{
+  "topicId": 28,
+  "slug": "28-ai-cluster-optimization-lessons-from-production-environments",
+  "title": "AI Cluster Optimization Lessons From Production Environments",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "TXT",
+  "targetAudience": "Infrastructure Engineers, Site Reliability Engineers, ML Platform Leads",
+  "readerProblem": "Theoretical cluster designs failing under unexpected production failures like silent data corruption, thermal throttling, and NCCL timeouts.",
+  "funnelStage": "Technical Credibility / Field Insights",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Connect with TrustGrid Forward Deployed Engineers",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#ClusterOptimization",
+    "#SRE",
+    "#DistributedTraining",
+    "#AIInfrastructure",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

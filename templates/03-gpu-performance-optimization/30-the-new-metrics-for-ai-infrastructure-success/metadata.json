@@ -1,0 +1,23 @@
+{
+  "topicId": 30,
+  "slug": "30-the-new-metrics-for-ai-infrastructure-success",
+  "title": "The New Metrics for AI Infrastructure Success",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "TXT",
+  "targetAudience": "CIOs, Heads of AI Platforms, SRE Directors, Infrastructure Executives",
+  "readerProblem": "Tracking legacy web-server metrics (CPU utilization, memory usage) that provide zero insight into AI factory productivity.",
+  "funnelStage": "Strategic Framing / Thought Leadership",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Download TrustGrid's Enterprise AI Telemetry & Metrics Standard",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIMetrics",
+    "#Observability",
+    "#PlatformEngineering",
+    "#AILeadership",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

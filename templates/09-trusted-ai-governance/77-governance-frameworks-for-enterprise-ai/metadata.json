@@ -1,0 +1,23 @@
+{
+  "topicId": 77,
+  "slug": "77-governance-frameworks-for-enterprise-ai",
+  "title": "Governance Frameworks for Enterprise AI",
+  "category": "Trusted AI & Governance",
+  "categoryFolder": "09-trusted-ai-governance",
+  "format": "IMG",
+  "targetAudience": "Enterprise Architects, Chief Risk Officers, CIOs, Compliance Leads",
+  "readerProblem": "Lacking a unified governance structure that spans the entire AI lifecycle from data acquisition to agent tool execution.",
+  "funnelStage": "Framework / Solution Architecture",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Download TrustGrid's Enterprise AI Governance Framework",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIGovernance",
+    "#NIST_AIRMF",
+    "#Compliance",
+    "#EnterpriseArchitecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Trusted AI & Governance practice"
+}

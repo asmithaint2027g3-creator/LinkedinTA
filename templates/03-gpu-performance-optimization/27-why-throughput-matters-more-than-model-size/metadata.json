@@ -1,0 +1,23 @@
+{
+  "topicId": 27,
+  "slug": "27-why-throughput-matters-more-than-model-size",
+  "title": "Why Throughput Matters More Than Model Size",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "IMG",
+  "targetAudience": "Heads of AI, Lead Architects, Product Engineering VPs",
+  "readerProblem": "Defaulting to massive 400B+ parameter models for business tasks that could run 10x faster and cheaper on domain-adapted compact models.",
+  "funnelStage": "Education / Architecture",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Review TrustGrid's Domain Model Distillation Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#ModelDistillation",
+    "#AIThroughput",
+    "#LLMEngineering",
+    "#SystemsArchitecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 20,
+  "slug": "20-ai-capacity-planning-for-global-enterprises",
+  "title": "AI Capacity Planning for Global Enterprises",
+  "category": "AI Infrastructure Engineering",
+  "categoryFolder": "02-ai-infrastructure-engineering",
+  "format": "TXT",
+  "targetAudience": "Global Infrastructure Leads, CIOs, Capacity Planning Directors",
+  "readerProblem": "Underestimating lead times, power allocations, and regulatory sovereign data boundaries across multi-national AI deployments.",
+  "funnelStage": "Strategic Planning / Advisory",
+  "series": "AI Leadership Briefing",
+  "suggestedPublishingDay": "Tuesday",
+  "primaryCta": "Request an Enterprise Global AI Capacity Assessment",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#CapacityPlanning",
+    "#GlobalInfrastructure",
+    "#EnterpriseAI",
+    "#DataResidency",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Infrastructure Engineering practice"
+}

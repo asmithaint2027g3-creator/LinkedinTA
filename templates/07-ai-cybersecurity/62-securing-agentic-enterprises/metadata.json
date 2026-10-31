@@ -1,0 +1,23 @@
+{
+  "topicId": 62,
+  "slug": "62-securing-agentic-enterprises",
+  "title": "Securing Agentic Enterprises",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "IMG",
+  "targetAudience": "CISOs, Security Architects, Heads of AI Engineering",
+  "readerProblem": "Giving autonomous software agents broad read/write credentials to enterprise databases and SaaS tools without runtime behavioral sandboxing.",
+  "funnelStage": "Solution Architecture / Security",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Explore TrustGrid's Zero-Trust Agent Security Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AgentSecurity",
+    "#ZeroTrust",
+    "#Cybersecurity",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

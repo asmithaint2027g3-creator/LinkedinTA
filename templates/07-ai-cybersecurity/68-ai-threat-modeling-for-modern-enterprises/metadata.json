@@ -1,0 +1,23 @@
+{
+  "topicId": 68,
+  "slug": "68-ai-threat-modeling-for-modern-enterprises",
+  "title": "AI Threat Modeling for Modern Enterprises",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "IMG",
+  "targetAudience": "Security Architects, CISOs, ML Engineers, Risk Officers",
+  "readerProblem": "Lacking a structured, repeatable methodology to identify and prioritize AI-specific attack vectors across systems.",
+  "funnelStage": "Methodology / Framework",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Download TrustGrid's Enterprise AI Threat Modeling Matrix",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#ThreatModeling",
+    "#MITRE_ATLAS",
+    "#AICybersecurity",
+    "#EnterpriseRisk",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

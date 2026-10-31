@@ -1,0 +1,23 @@
+{
+  "topicId": 24,
+  "slug": "24-gpu-scheduling-strategies-that-reduce-ai-costs",
+  "title": "GPU Scheduling Strategies That Reduce AI Costs",
+  "category": "GPU Performance & Optimization",
+  "categoryFolder": "03-gpu-performance-optimization",
+  "format": "IMG",
+  "targetAudience": "Platform Architects, Kubernetes Leads, DevOps Directors",
+  "readerProblem": "Static GPU scheduling in Kubernetes resulting in resource fragmentation and massive cloud over-provisioning.",
+  "funnelStage": "Technical Solution",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Download TrustGrid's Enterprise GPU Scheduling Architecture Guide",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#GPUScheduling",
+    "#Kubernetes",
+    "#CloudFinOps",
+    "#PlatformEngineering",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI GPU Performance & Optimization practice"
+}

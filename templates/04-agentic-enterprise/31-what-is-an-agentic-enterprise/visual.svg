@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" style="background:#090d16; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;">
+  <defs>
+    <linearGradient id="bgCanvas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b132b"/>
+    </linearGradient>
+    <linearGradient id="cyanBadge" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0284c7" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bgCanvas)"/>
+
+  <!-- Background Tech Grid -->
+  <g opacity="0.06" stroke="#38bdf8" stroke-width="1">
+    <line x1="80" y1="0" x2="80" y2="1350"/>
+    <line x1="540" y1="0" x2="540" y2="1350"/>
+    <line x1="1000" y1="0" x2="1000" y2="1350"/>
+    <line x1="0" y1="210" x2="1080" y2="210"/>
+    <line x1="0" y1="800" x2="1080" y2="800"/>
+    <line x1="0" y1="1200" x2="1080" y2="1200"/>
+  </g>
+
+  <!-- Top Header / Brand Bar -->
+  <g transform="translate(80, 70)">
+    <rect x="0" y="0" width="160" height="34" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="16" y="22" fill="#38bdf8" font-size="13" font-weight="700" letter-spacing="1.5">TRUSTGRID.AI</text>
+    
+    <rect x="175" y="0" width="200" height="34" rx="6" fill="#6366f1" fill-opacity="0.2" stroke="#818cf8" stroke-width="1"/>
+    <text x="190" y="22" fill="#c7d2fe" font-size="12" font-weight="600" letter-spacing="1">AGENTIC ENTERPRISE</text>
+
+    <text x="920" y="22" fill="#64748b" font-size="13" font-weight="600" text-anchor="end" letter-spacing="1">AGENTIC MONDAYS • #031</text>
+  </g>
+
+  <!-- Title & Subtitle -->
+  <g transform="translate(80, 155)">
+    <text x="0" y="42" fill="#f8fafc" font-size="44" font-weight="800" letter-spacing="-0.5">What Is an Agentic Enterprise?</text>
+    <text x="0" y="82" fill="#94a3b8" font-size="20" font-weight="400">Moving beyond single-prompt chatbots to autonomous multi-agent systems</text>
+  </g>
+
+  <!-- Central Architecture Stack (4 Layers) -->
+  <g transform="translate(80, 270)">
+    
+    <!-- Layer 1: Swarm Orchestration -->
+    <g transform="translate(0, 0)">
+      <rect width="920" height="150" rx="14" fill="#0f172a" stroke="#6366f1" stroke-width="1.5"/>
+      <rect x="0" y="0" width="920" height="42" rx="14" fill="#1e1b4b"/>
+      <text x="24" y="27" fill="#a5b4fc" font-size="13" font-weight="700" letter-spacing="1">LAYER 01: GOAL DECOMPOSITION &amp; AGENT SWARM ORCHESTRATION</text>
+      <text x="896" y="27" fill="#818cf8" font-size="12" font-weight="600" text-anchor="end">AUTONOMOUS DISPATCH</text>
+      
+      <g transform="translate(24, 62)">
+        <rect x="0" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#f8fafc" font-size="14" font-weight="700">Coordinator Agent</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Deconstructs business intent to DAG</text>
+
+        <rect x="295" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#f8fafc" font-size="14" font-weight="700">Specialist Agents</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Domain-specific execution roles</text>
+
+        <rect x="590" y="0" width="280" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#f8fafc" font-size="14" font-weight="700">Quorum Consensus</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Multi-agent peer verification</text>
+      </g>
+    </g>
+
+    <!-- Connector line -->
+    <line x1="460" y1="150" x2="460" y2="180" stroke="#6366f1" stroke-width="2" stroke-dasharray="4 4"/>
+
+    <!-- Layer 2: Tripartite Memory System -->
+    <g transform="translate(0, 180)">
+      <rect width="920" height="150" rx="14" fill="#0f172a" stroke="#0284c7" stroke-width="1.5"/>
+      <rect x="0" y="0" width="920" height="42" rx="14" fill="#0c4a6e"/>
+      <text x="24" y="27" fill="#7dd3fc" font-size="13" font-weight="700" letter-spacing="1">LAYER 02: TRIPARTITE PERSISTENT AGENT MEMORY</text>
+      <text x="896" y="27" fill="#38bdf8" font-size="12" font-weight="600" text-anchor="end">LONG-TERM CONTEXT</text>
+
+      <g transform="translate(24, 62)">
+        <rect x="0" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#38bdf8" font-size="14" font-weight="700">Episodic Memory</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Past operational trajectories &amp; outcomes</text>
+
+        <rect x="295" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#38bdf8" font-size="14" font-weight="700">Semantic Memory</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Enterprise ontologies &amp; knowledge graph</text>
+
+        <rect x="590" y="0" width="280" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#38bdf8" font-size="14" font-weight="700">Procedural Memory</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Rules of engagement &amp; tool skills</text>
+      </g>
+    </g>
+
+    <!-- Connector line -->
+    <line x1="460" y1="330" x2="460" y2="360" stroke="#0284c7" stroke-width="2" stroke-dasharray="4 4"/>
+
+    <!-- Layer 3: System of Record Tool Sandboxing -->
+    <g transform="translate(0, 360)">
+      <rect width="920" height="150" rx="14" fill="#0f172a" stroke="#d97706" stroke-width="1.5"/>
+      <rect x="0" y="0" width="920" height="42" rx="14" fill="#451a03"/>
+      <text x="24" y="27" fill="#fcd34d" font-size="13" font-weight="700" letter-spacing="1">LAYER 03: ZERO-TRUST TOOL SANDBOX &amp; ENTERPRISE APIS</text>
+      <text x="896" y="27" fill="#fbbf24" font-size="12" font-weight="600" text-anchor="end">MUTATION ENVIRONMENT</text>
+
+      <g transform="translate(24, 62)">
+        <rect x="0" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#f8fafc" font-size="14" font-weight="700">Enterprise Systems</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">SAP • Salesforce • Oracle • Snowflake</text>
+
+        <rect x="295" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#f8fafc" font-size="14" font-weight="700">Ephemeral Sandboxes</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Isolated execution for code &amp; SQL</text>
+
+        <rect x="590" y="0" width="280" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#f8fafc" font-size="14" font-weight="700">Scoped IAM Tokens</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Least-privilege role-based access</text>
+      </g>
+    </g>
+
+    <!-- Connector line -->
+    <line x1="460" y1="510" x2="460" y2="540" stroke="#10b981" stroke-width="2" stroke-dasharray="4 4"/>
+
+    <!-- Layer 4: Verification Rails & Governance -->
+    <g transform="translate(0, 540)">
+      <rect width="920" height="150" rx="14" fill="#0f172a" stroke="#10b981" stroke-width="1.5"/>
+      <rect x="0" y="0" width="920" height="42" rx="14" fill="#064e3b"/>
+      <text x="24" y="27" fill="#6ee7b7" font-size="13" font-weight="700" letter-spacing="1">LAYER 04: DETERMINISTIC VERIFICATION &amp; GOVERNANCE RAILS</text>
+      <text x="896" y="27" fill="#34d399" font-size="12" font-weight="600" text-anchor="end">AUDITABLE CERTAINTY</text>
+
+      <g transform="translate(24, 62)">
+        <rect x="0" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#34d399" font-size="14" font-weight="700">Formal Verification</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Pre-execution constraint validation</text>
+
+        <rect x="295" y="0" width="265" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#34d399" font-size="14" font-weight="700">Explainable Trails</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">SHAP/LIME attribution for decisions</text>
+
+        <rect x="590" y="0" width="280" height="66" rx="8" fill="#1e293b"/>
+        <text x="16" y="26" fill="#34d399" font-size="14" font-weight="700">Human Escalation</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="12">Deterministic out-of-bounds gates</text>
+      </g>
+    </g>
+
+  </g>
+
+  <!-- Paradigm Comparison Banner -->
+  <g transform="translate(80, 1020)">
+    <rect width="920" height="124" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    
+    <!-- Chatbot column -->
+    <g transform="translate(32, 24)">
+      <text x="0" y="16" fill="#ef4444" font-size="13" font-weight="700" letter-spacing="1">CONVERSATIONAL AI (CHATBOTS)</text>
+      <text x="0" y="44" fill="#cbd5e1" font-size="15" font-weight="600">Prompt &amp; Respond • Zero System Memory</text>
+      <text x="0" y="70" fill="#94a3b8" font-size="13">Requires manual human copy-paste &amp; verification</text>
+    </g>
+
+    <line x1="460" y1="16" x2="460" y2="108" stroke="#334155" stroke-width="1"/>
+
+    <!-- Agentic column -->
+    <g transform="translate(490, 24)">
+      <text x="0" y="16" fill="#38bdf8" font-size="13" font-weight="700" letter-spacing="1">THE AGENTIC ENTERPRISE</text>
+      <text x="0" y="44" fill="#f8fafc" font-size="15" font-weight="600">Goal Orchestration • Long Memory • Direct APIs</text>
+      <text x="0" y="70" fill="#94a3b8" font-size="13">Autonomous system mutations with deterministic audit trails</text>
+    </g>
+  </g>
+
+  <!-- Bottom CTA Footer -->
+  <g transform="translate(80, 1180)">
+    <rect width="920" height="96" rx="12" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-width="1"/>
+    <text x="36" y="40" fill="#c7d2fe" font-size="13" font-weight="700" letter-spacing="1">ARCHITECTING AUTONOMOUS OPERATIONS</text>
+    <text x="36" y="70" fill="#f8fafc" font-size="18" font-weight="700">Build production multi-agent systems with TrustGrid Forward Deployed Engineers.</text>
+
+    <rect x="660" y="25" width="224" height="46" rx="8" fill="#6366f1"/>
+    <text x="772" y="53" fill="#ffffff" font-size="14" font-weight="700" text-anchor="middle">Explore Agentic Stack →</text>
+  </g>
+
+  <!-- Footnote -->
+  <g transform="translate(80, 1318)">
+    <text x="0" y="0" fill="#475569" font-size="12" font-weight="500">© TRUSTGRID.AI • ENTERPRISE MULTI-AGENT ARCHITECTURE • AGENTIC SYSTEMS</text>
+    <text x="920" y="0" fill="#818cf8" font-size="12" font-weight="600" text-anchor="end">trustgrid.ai</text>
+  </g>
+</svg>
+

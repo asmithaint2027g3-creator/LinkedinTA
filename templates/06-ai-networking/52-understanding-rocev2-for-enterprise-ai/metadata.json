@@ -1,0 +1,23 @@
+{
+  "topicId": 52,
+  "slug": "52-understanding-rocev2-for-enterprise-ai",
+  "title": "Understanding RoCEv2 for Enterprise AI",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "IMG",
+  "targetAudience": "Network Engineers, Enterprise Architects, ML Infrastructure Leads",
+  "readerProblem": "Understanding how RDMA over Converged Ethernet (RoCEv2) enables InfiniBand-like performance on open Ethernet fabrics.",
+  "funnelStage": "Technical Explainer",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Download TrustGrid's Enterprise RoCEv2 Deployment Guide",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#RoCEv2",
+    "#RDMA",
+    "#Ethernet",
+    "#AINetworking",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

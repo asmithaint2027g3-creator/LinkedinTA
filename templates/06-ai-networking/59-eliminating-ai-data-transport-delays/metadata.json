@@ -1,0 +1,23 @@
+{
+  "topicId": 59,
+  "slug": "59-eliminating-ai-data-transport-delays",
+  "title": "Eliminating AI Data Transport Delays",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "TXT",
+  "targetAudience": "Data Platform Leads, ML Engineers, Storage Architects",
+  "readerProblem": "GPUs sitting in high-cost wait states because storage networks cannot feed multi-terabyte datasets fast enough.",
+  "funnelStage": "Technical Optimization",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Review TrustGrid's High-Throughput Storage & Data Transport Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#DataTransport",
+    "#StorageArchitecture",
+    "#GPUDirect",
+    "#NVMe",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

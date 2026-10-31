@@ -1,0 +1,23 @@
+{
+  "topicId": 16,
+  "slug": "16-designing-ai-infrastructure-for-scale-not-experiments",
+  "title": "Designing AI Infrastructure for Scale, Not Experiments",
+  "category": "AI Infrastructure Engineering",
+  "categoryFolder": "02-ai-infrastructure-engineering",
+  "format": "IMG",
+  "targetAudience": "Enterprise Architects, ML Platform Leads, Infrastructure VPs",
+  "readerProblem": "Building AI stacks tailored for single-node prototypes that fail catastrophically when expanded to distributed multi-node clusters.",
+  "funnelStage": "Education / Architecture",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Review TrustGrid's Production Scale AI Architecture Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIInfrastructure",
+    "#MLOps",
+    "#DistributedSystems",
+    "#Scalability",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Infrastructure Engineering practice"
+}

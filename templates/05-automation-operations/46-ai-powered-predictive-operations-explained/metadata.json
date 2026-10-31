@@ -1,0 +1,23 @@
+{
+  "topicId": 46,
+  "slug": "46-ai-powered-predictive-operations-explained",
+  "title": "AI-Powered Predictive Operations Explained",
+  "category": "Automation & Operations",
+  "categoryFolder": "05-automation-operations",
+  "format": "IMG",
+  "targetAudience": "VPs of Manufacturing, Plant Managers, Chief Technology Officers",
+  "readerProblem": "Unplanned machinery downtime, expensive emergency maintenance, and degraded industrial equipment lifespan.",
+  "funnelStage": "Technical Explainer / Industrial AI",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Review TrustGrid's Predictive Operations Architecture",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#PredictiveOperations",
+    "#IndustrialAI",
+    "#Manufacturing",
+    "#IoT",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Automation & Operations practice"
+}

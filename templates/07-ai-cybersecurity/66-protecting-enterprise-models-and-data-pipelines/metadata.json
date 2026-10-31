@@ -1,0 +1,23 @@
+{
+  "topicId": 66,
+  "slug": "66-protecting-enterprise-models-and-data-pipelines",
+  "title": "Protecting Enterprise Models and Data Pipelines",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "IMG",
+  "targetAudience": "Chief Data Officers, MLOps Leads, Security Directors",
+  "readerProblem": "Leaving multi-million dollar fine-tuned model weights and proprietary RAG vector indices exposed to internal data theft and model extraction.",
+  "funnelStage": "Technical Architecture / Protection",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Review TrustGrid's Model & Vector Pipeline Protection Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#DataPipelines",
+    "#ModelProtection",
+    "#IPSecurity",
+    "#VectorDatabase",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

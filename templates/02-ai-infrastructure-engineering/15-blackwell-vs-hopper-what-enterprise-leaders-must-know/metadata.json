@@ -1,0 +1,23 @@
+{
+  "topicId": 15,
+  "slug": "15-blackwell-vs-hopper-what-enterprise-leaders-must-know",
+  "title": "Blackwell vs Hopper: What Enterprise Leaders Must Know",
+  "category": "AI Infrastructure Engineering",
+  "categoryFolder": "02-ai-infrastructure-engineering",
+  "format": "IMG",
+  "targetAudience": "CTOs, Heads of AI Compute, Enterprise Architects, Data Center Strategists",
+  "readerProblem": "Evaluating multi-million dollar hardware refresh cycles without understanding the architectural and facility prerequisites of Blackwell.",
+  "funnelStage": "Technical Evaluation / Roadmap",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Request TrustGrid's Blackwell Readiness Architecture Guide",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#NVIDIABlackwell",
+    "#Hopper",
+    "#AIHardware",
+    "#DataCenterArchitecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Infrastructure Engineering practice"
+}

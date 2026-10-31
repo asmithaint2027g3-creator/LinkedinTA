@@ -1,0 +1,23 @@
+{
+  "topicId": 14,
+  "slug": "14-how-enterprises-waste-millions-in-underutilized-compute",
+  "title": "How Enterprises Waste Millions in Underutilized Compute",
+  "category": "AI Infrastructure Engineering",
+  "categoryFolder": "02-ai-infrastructure-engineering",
+  "format": "IMG",
+  "targetAudience": "CFOs, CIOs, ML Platform Engineers, Procurement Directors",
+  "readerProblem": "Procuring expensive multi-year reserved GPU cloud instances that sit idle due to static allocations and lack of dynamic bin-packing.",
+  "funnelStage": "Problem Identification / FinOps",
+  "series": "AI Value Engineering",
+  "suggestedPublishingDay": "Wednesday",
+  "primaryCta": "Schedule a GPU Waste & Allocation Audit with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AIFinOps",
+    "#GPUWaste",
+    "#CloudOptimization",
+    "#EnterpriseAI",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Infrastructure Engineering practice"
+}

@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" style="background:#080c14; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="40%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b132b"/>
+    </linearGradient>
+    <filter id="shadowFilter" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+
+  <!-- Subtle Blueprint Tech Grid -->
+  <g opacity="0.05" stroke="#10b981" stroke-width="1">
+    <line x1="80" y1="0" x2="80" y2="1350"/>
+    <line x1="540" y1="0" x2="540" y2="1350"/>
+    <line x1="1000" y1="0" x2="1000" y2="1350"/>
+    <line x1="0" y1="180" x2="1080" y2="180"/>
+    <line x1="0" y1="680" x2="1080" y2="680"/>
+    <line x1="0" y1="1160" x2="1080" y2="1160"/>
+  </g>
+
+  <!-- Top Header Bar -->
+  <g transform="translate(80, 65)">
+    <!-- Brand Plate -->
+    <rect x="0" y="0" width="165" height="34" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="16" y="22" fill="#38bdf8" font-size="13" font-weight="800" letter-spacing="1.5">TRUSTGRID.AI</text>
+    
+    <!-- Category Pill -->
+    <rect x="180" y="0" width="280" height="34" rx="6" fill="#064e3b" stroke="#059669" stroke-width="1"/>
+    <text x="195" y="22" fill="#a7f3d0" font-size="11.5" font-weight="700" letter-spacing="1">TRUSTED AI &amp; GOVERNANCE</text>
+
+    <!-- Series & ID -->
+    <text x="920" y="22" fill="#64748b" font-size="13" font-weight="600" text-anchor="end" letter-spacing="1">TRUST &amp; GOVERNANCE THURSDAYS • #077</text>
+  </g>
+
+  <!-- Title & Problem Banner -->
+  <g transform="translate(80, 145)">
+    <text x="0" y="42" fill="#f8fafc" font-size="38" font-weight="800" letter-spacing="-0.5">ENTERPRISE AI GOVERNANCE FRAMEWORK</text>
+    <text x="0" y="80" fill="#94a3b8" font-size="18.5" font-weight="400">Data Provenance, Model Attestation, Runtime Guardrails, and Continuous Audit</text>
+  </g>
+
+  <!-- Technical Pillar Cards -->
+  
+      <!-- Card 1 -->
+      <g transform="translate(80, 300)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#059669"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#064e3b" stroke="#059669" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#10b981" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">01</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">The Four Governance Pillars</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Data Integrity &amp; Provenance, Model Attestation &amp; Validation, Runtime...</text>
+      </g>
+    
+
+      <!-- Card 2 -->
+      <g transform="translate(80, 465)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#059669"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#064e3b" stroke="#059669" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#10b981" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">02</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Harmonizing Global Standards</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Mapping enterprise controls simultaneously across NIST AI RMF, ISO/IEC 42001,...</text>
+      </g>
+    
+
+      <!-- Card 3 -->
+      <g transform="translate(80, 630)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#059669"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#064e3b" stroke="#059669" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#10b981" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">03</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Automated Pre-Deployment Gates</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Enforcing automated bias testing, security vulnerability scans, and...</text>
+      </g>
+    
+
+      <!-- Card 4 -->
+      <g transform="translate(80, 795)" filter="url(#shadowFilter)">
+        <rect width="920" height="145" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+        <rect x="0" y="0" width="6" height="145" rx="3" fill="#059669"/>
+        
+        <!-- Step Badge -->
+        <circle cx="48" cy="46" r="22" fill="#064e3b" stroke="#059669" stroke-opacity="0.4" stroke-width="1"/>
+        <text x="48" y="52" fill="#10b981" font-size="15" font-weight="800" text-anchor="middle" font-family="'JetBrains Mono', monospace">04</text>
+        
+        <!-- Card Text -->
+        <text x="88" y="44" fill="#f8fafc" font-size="20" font-weight="700">Continuous Human Oversight</text>
+        <text x="88" y="76" fill="#94a3b8" font-size="14.5" font-weight="400" width="800">Structured human-in-the-loop escalation paths for edge cases that exceed...</text>
+      </g>
+    
+
+  <!-- Strategic Takeaway & Rule Banner -->
+  <g transform="translate(80, 995)" filter="url(#shadowFilter)">
+    <rect width="920" height="150" rx="14" fill="#0f172a" stroke="#059669" stroke-width="1.5"/>
+    <rect x="0" y="0" width="920" height="38" rx="14" fill="#064e3b"/>
+    <text x="24" y="24" fill="#10b981" font-size="12" font-weight="700" letter-spacing="1.5">ENTERPRISE ARCHITECTURE TAKEAWAY</text>
+    
+    <text x="24" y="74" fill="#f8fafc" font-size="18" font-weight="700">"True governance transforms compliance from a corporate bottleneck into a platform that accelerates trusted innovation."</text>
+    <text x="24" y="112" fill="#94a3b8" font-size="14">Deploy with sovereign data boundaries, formal verification, and deterministic SLAs.</text>
+  </g>
+
+  <!-- Bottom CTA Footer -->
+  <g transform="translate(80, 1175)">
+    <rect width="920" height="96" rx="12" fill="#064e3b" fill-opacity="0.3" stroke="#059669" stroke-width="1"/>
+    
+    <text x="32" y="38" fill="#10b981" font-size="12.5" font-weight="700" letter-spacing="1">TRUSTGRID.AI ENGINEERING SERVICES</text>
+    <text x="32" y="68" fill="#f8fafc" font-size="17" font-weight="700">Forward Deployed Engineering Pods embedded inside your sovereign infrastructure.</text>
+
+    <!-- CTA Button -->
+    <rect x="680" y="25" width="208" height="46" rx="8" fill="#059669"/>
+    <text x="784" y="53" fill="#ffffff" font-size="13.5" font-weight="700" text-anchor="middle">Explore Solutions →</text>
+  </g>
+
+  <!-- Footnote -->
+  <g transform="translate(80, 1315)">
+    <text x="0" y="0" fill="#475569" font-size="12" font-weight="500">© TRUSTGRID.AI • ENTERPRISE AI ENGINEERING • SOVEREIGN INFRASTRUCTURE &amp; AGENTS</text>
+    <text x="920" y="0" fill="#10b981" font-size="12" font-weight="600" text-anchor="end">trustgrid.ai</text>
+  </g>
+</svg>

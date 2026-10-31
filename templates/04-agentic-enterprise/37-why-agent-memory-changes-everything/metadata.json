@@ -1,0 +1,23 @@
+{
+  "topicId": 37,
+  "slug": "37-why-agent-memory-changes-everything",
+  "title": "Why Agent Memory Changes Everything",
+  "category": "Agentic Enterprise",
+  "categoryFolder": "04-agentic-enterprise",
+  "format": "TXT",
+  "targetAudience": "Heads of AI Engineering, Principal Data Scientists, Enterprise Architects",
+  "readerProblem": "Stateless agents repeating the same mistakes and requiring massive prompt context re-injection for every single interaction.",
+  "funnelStage": "Technical Deep-Dive",
+  "series": "Agentic Enterprise Mondays",
+  "suggestedPublishingDay": "Monday",
+  "primaryCta": "Explore TrustGrid's Tripartite Agent Memory Blueprint",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AgentMemory",
+    "#CognitiveArchitecture",
+    "#AIResearch",
+    "#EnterpriseTech",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Agentic Enterprise practice"
+}

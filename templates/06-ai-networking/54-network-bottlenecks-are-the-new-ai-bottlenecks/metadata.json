@@ -1,0 +1,23 @@
+{
+  "topicId": 54,
+  "slug": "54-network-bottlenecks-are-the-new-ai-bottlenecks",
+  "title": "Network Bottlenecks Are the New AI Bottlenecks",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "IMG",
+  "targetAudience": "VPs of Infrastructure, ML Platform Directors, Data Center Architects",
+  "readerProblem": "GPUs sitting idle during distributed operations because network fabrics cannot shuttle weights and tensors fast enough.",
+  "funnelStage": "Problem Identification / Systems Engineering",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Schedule an AI Fabric Bottleneck Audit with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#NetworkBottlenecks",
+    "#AICluster",
+    "#GPUUtilization",
+    "#SystemsEngineering",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 53,
+  "slug": "53-infiniband-vs-ethernet-for-ai-factories",
+  "title": "InfiniBand vs Ethernet for AI Factories",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "IMG",
+  "targetAudience": "CTOs, Heads of Infrastructure, Network Architects, Procurement Directors",
+  "readerProblem": "Debating whether to invest in proprietary InfiniBand fabrics or standard Converged Ethernet for new AI cluster deployments.",
+  "funnelStage": "Technical Evaluation / Architecture",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Request TrustGrid's InfiniBand vs Ethernet Trade-Off Analysis",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#InfiniBand",
+    "#Ethernet",
+    "#UltraEthernet",
+    "#AIInfrastructure",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 72,
+  "slug": "72-preparing-for-post-quantum-cyber-threats",
+  "title": "Preparing for Post-Quantum Cyber Threats",
+  "category": "Quantum-Safe Security",
+  "categoryFolder": "08-quantum-safe-security",
+  "format": "IMG",
+  "targetAudience": "Security Architects, Cryptographers, CISOs, Infrastructure Leaders",
+  "readerProblem": "Lacking an inventory of where legacy asymmetric algorithms (RSA, ECC, Diffie-Hellman) are embedded in corporate software and hardware.",
+  "funnelStage": "Preparation / Roadmap",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Download TrustGrid's Post-Quantum Readiness Roadmap",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#PostQuantum",
+    "#PQC",
+    "#Cryptography",
+    "#CyberDefense",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Quantum-Safe Security practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 74,
+  "slug": "74-enterprise-readiness-for-quantum-computing-risks",
+  "title": "Enterprise Readiness for Quantum Computing Risks",
+  "category": "Quantum-Safe Security",
+  "categoryFolder": "08-quantum-safe-security",
+  "format": "TXT",
+  "targetAudience": "Chief Risk Officers, General Counsels, CIOs, Board Audit Members",
+  "readerProblem": "Failing to conduct formal risk modeling and compliance readiness assessments for quantum computing disruption.",
+  "funnelStage": "Evaluation / Readiness",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Request an Enterprise Quantum Readiness Audit with TrustGrid",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#EnterpriseReadiness",
+    "#QuantumRisk",
+    "#RiskManagement",
+    "#AIGovernance",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Quantum-Safe Security practice"
+}

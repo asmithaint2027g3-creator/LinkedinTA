@@ -1,0 +1,22 @@
+{
+  "topicId": 58,
+  "slug": "58-why-ai-infrastructure-requires-network-re-architecture",
+  "title": "Why AI Infrastructure Requires Network Re-Architecture",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "TXT",
+  "targetAudience": "CIOs, Enterprise Architects, Network Directors",
+  "readerProblem": "Believing that upgrading existing enterprise core switches is sufficient to host high-density AI workloads.",
+  "funnelStage": "Strategic Awakening / Advisory",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Request an Enterprise Network Re-Architecture Assessment",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#NetworkReArchitecture",
+    "#EnterpriseAI",
+    "#DataCenterStrategy",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

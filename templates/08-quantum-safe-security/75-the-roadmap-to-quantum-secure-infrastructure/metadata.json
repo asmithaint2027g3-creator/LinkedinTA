@@ -1,0 +1,23 @@
+{
+  "topicId": 75,
+  "slug": "75-the-roadmap-to-quantum-secure-infrastructure",
+  "title": "The Roadmap to Quantum-Secure Infrastructure",
+  "category": "Quantum-Safe Security",
+  "categoryFolder": "08-quantum-safe-security",
+  "format": "IMG",
+  "targetAudience": "Chief Information Security Officers, Enterprise Architects, Infrastructure VPs",
+  "readerProblem": "Feeling overwhelmed by the scope of replacing cryptography across an entire enterprise without a structured step-by-step roadmap.",
+  "funnelStage": "Implementation Roadmap / Strategic Action",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Download TrustGrid's 4-Phase Quantum-Secure Infrastructure Roadmap",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#QuantumRoadmap",
+    "#PQCImplementation",
+    "#CyberSecurity",
+    "#EnterpriseArchitecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Quantum-Safe Security practice"
+}

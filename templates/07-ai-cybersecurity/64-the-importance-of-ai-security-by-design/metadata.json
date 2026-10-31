@@ -1,0 +1,23 @@
+{
+  "topicId": 64,
+  "slug": "64-the-importance-of-ai-security-by-design",
+  "title": "The Importance of AI Security by Design",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "IMG",
+  "targetAudience": "Chief Product Officers, Enterprise Architects, VPs of Software Engineering",
+  "readerProblem": "Bolting security onto finished generative AI applications just before launch, causing architectural redesigns or production vulnerability.",
+  "funnelStage": "Education / Methodology",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Review TrustGrid's Security-by-Design AI Engineering Framework",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#SecurityByDesign",
+    "#DevSecOps",
+    "#SecureAI",
+    "#SoftwareEngineering",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}

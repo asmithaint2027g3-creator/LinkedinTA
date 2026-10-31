@@ -1,0 +1,22 @@
+{
+  "topicId": 56,
+  "slug": "56-building-high-performance-ai-networks",
+  "title": "Building High-Performance AI Networks",
+  "category": "AI Networking",
+  "categoryFolder": "06-ai-networking",
+  "format": "IMG",
+  "targetAudience": "Data Center Directors, Enterprise Architects, VPs of Infrastructure",
+  "readerProblem": "Building an enterprise AI cluster without separating frontend management, storage transport, and high-speed GPU backend fabrics.",
+  "funnelStage": "Architecture / Checklist",
+  "series": "AI Factory Fridays",
+  "suggestedPublishingDay": "Friday",
+  "primaryCta": "Download TrustGrid's High-Performance AI Network Architecture Guide",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#HighPerformanceNetworking",
+    "#DataCenterDesign",
+    "#AIArchitecture",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Networking practice"
+}

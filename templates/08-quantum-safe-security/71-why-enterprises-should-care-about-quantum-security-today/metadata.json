@@ -1,0 +1,23 @@
+{
+  "topicId": 71,
+  "slug": "71-why-enterprises-should-care-about-quantum-security-today",
+  "title": "Why Enterprises Should Care About Quantum Security Today",
+  "category": "Quantum-Safe Security",
+  "categoryFolder": "08-quantum-safe-security",
+  "format": "TXT",
+  "targetAudience": "CISOs, Chief Risk Officers, General Counsels, Board Audit Committees",
+  "readerProblem": "Assuming quantum threats are 15 years away, ignoring current 'Harvest Now, Decrypt Later' attacks on long-lived enterprise data.",
+  "funnelStage": "Awareness / Urgency Framing",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Schedule a Quantum Risk & Post-Quantum Cryptography Assessment",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#QuantumSecurity",
+    "#PostQuantumCryptography",
+    "#CISO",
+    "#DataProtection",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI Quantum-Safe Security practice"
+}

@@ -1,0 +1,23 @@
+{
+  "topicId": 67,
+  "slug": "67-cybersecurity-challenges-of-autonomous-systems",
+  "title": "Cybersecurity Challenges of Autonomous Systems",
+  "category": "AI Cybersecurity",
+  "categoryFolder": "07-ai-cybersecurity",
+  "format": "TXT",
+  "targetAudience": "VPs of Cybersecurity, Chief Risk Officers, Enterprise Architects",
+  "readerProblem": "Managing security risks when software agents make automated decisions without waiting for human confirmation.",
+  "funnelStage": "Risk Evaluation / Advisory",
+  "series": "Trust & Governance Thursdays",
+  "suggestedPublishingDay": "Thursday",
+  "primaryCta": "Schedule an Autonomous Systems Security Briefing",
+  "ctaUrl": "https://trustgrid.ai",
+  "hashtags": [
+    "#AutonomousSecurity",
+    "#CyberRisk",
+    "#AgenticAI",
+    "#EnterpriseGovernance",
+    "#TrustGrid"
+  ],
+  "verificationStatus": "Verified with TrustGrid.AI AI Cybersecurity practice"
+}
